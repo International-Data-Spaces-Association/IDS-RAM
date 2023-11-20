@@ -2,7 +2,7 @@
 name: Documentation
 about: Documenting information that are already discussed and set.
 title: ''
-labels: ''
+labels: 'Documentation, status:open'
 assignees: ''
 
 ---
