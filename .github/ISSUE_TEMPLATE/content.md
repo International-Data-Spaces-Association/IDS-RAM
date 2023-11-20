@@ -2,7 +2,7 @@
 name: Content
 about: Changes / additions of the structure / knowledge that are up for discussion
 title: ''
-labels: ''
+labels: 'Content, status:open'
 assignees: ''
 
 ---
