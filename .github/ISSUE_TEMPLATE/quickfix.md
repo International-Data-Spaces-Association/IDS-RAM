@@ -3,7 +3,7 @@ name: QuickFix
 about: Tasks that can be completed in a small amount of time and don’t need too much
   knowledge (good for beginners)
 title: ''
-labels: ''
+labels: 'QuickFix, status:open'
 assignees: ''
 
 ---
