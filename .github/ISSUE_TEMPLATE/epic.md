@@ -2,8 +2,8 @@
 name: Epic
 about: 'Used to collect and organize the existing Issues '
 title: ''
-labels: ''
-assignees: ''
+labels: 'Epic, status:open'
+assignees: 'ssteinbuss, JessicaRombs'
 
 ---
 
