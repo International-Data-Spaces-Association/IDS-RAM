@@ -15,9 +15,12 @@
 
 This is a Reference Architecture Model, following the [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook).
 
+## Foundational aspects
+
+[Foundational Aspects](./foundation/foundation.md) for the understanding of Data Spaces. 
+
 ## Layers of the Reference Architecture Model
 
-* [Foundation](./foundation/foundation.md)
 * [Business](./business/business.md)
 * [Functional](./functional/functional.md)
 * [Information](./information/information.md)
