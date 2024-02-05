@@ -16,18 +16,17 @@ maintained according to the rules documented on http://keepachangelog.com.
 
 ## Issues
 
-You always have to create an issue if you want to propose or integrate a bugfix, improvement, or feature.
+You always have to create an issue if you want to propose or integrate an improvement, feature or fix.
 Briefly and clearly describe the purpose of your contribution in the corresponding issue.
+For this purpose, this repository has pre-defined Issue Templates.
+
+**Documentation**: Documenting information that are already discussed and set.
+**Content**: Changes / additions of the structure / knowledge
+**QuickFix**: Tasks that can be completed in a small amount of time and don’t need too much knowledge (good for beginners)
+**Epic**: To collect and organize the existing Issues (see below)
+
 The pre-defined [labels](#labels) improve the understanding of your intentions and help to follow
 the scope of your changes.
-
-**Bug Report**: As mentioned above, bug reports should be submitted as an issue. To give others
-the chance to reproduce the error in order to find a solution as quickly as possible, the report
-should at least include the following information:
-
-* Description: What did you expect and what happened instead?
-* Steps to reproduce (system specs included)
-* Relevant logs and/or media (optional): e.g. an image
 
 ## Labels
 
@@ -36,8 +35,10 @@ The [labels](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_
 There are two types of labels: one describes the content of the issue and should be used by the
 developer that creates the issue. The other one, starting with `status`, will be added from the
 developer that takes on the issue. New issues should be initially marked with `status:open`.
+**Please always use Labels on the Issues you create.**
+Some Labels are attached automatically with certain Issue Templates
 
-*  Basic labels: `bug`, `enhancement`, `suggestion`, `documentation` `outdated`, `question`, `discussion`
+*  Basic labels: `bug`, `enhancement`, `suggestion`, `documentation`, `question`, `discussion`, `invalid`, `help wanted`, `QuickFix`
 *  `status:closed`: issue is closed (after successful approval by issuer and QA)
 *  `status:duplicate`: issue is a duplicate of another linked issue and therefore discontinued
 *  `status:in-progress`: issue has been assigned and is currently being worked on
@@ -45,7 +46,14 @@ developer that takes on the issue. New issues should be initially marked with `s
 *  `status:open`: issue has been submitted or re-opened recently
 *  `status:out-of-scope`: issue is considered out of the project's scope and therefore not further considered
 *  `status:resolved`: issue has been implemented and tested by a developer
-*  `status:wont-fix`: issue is in scope but considered impossible or too expensive to deal with
+*  `wont-fix`: issue is in scope but considered impossible or too expensive to deal with
+*  `Epic`: Issue ia an Epic (see below)
+
+## Epic Issues
+
+Epic Issues are needed to organize, structure and visualize existing Issues. They are usually pinned to the top.
+**Please do not open an Epic Issue without discussing it with an organizer.**
+If you think something should be added to an Epic Issue, please contact its author.
 
 ## Branches
 
@@ -73,6 +81,21 @@ Types: `fix`, `feat`, `chore`, `test`, `refactor`, `docs`, `release`. Append `!`
 changes to a type.
 
 An example of a very good commit might look like this: `feat![login]: add awesome breaking feature`
+
+## Milestones
+
+Milestones collect Epics with a set and strict deadline. Milestone progress gets observed and discussed in the RAM5 Meetings.
+
+## Workflow and Meetings
+
+In general, tasks that are not in the GitHub repository as issues, are not officially tasks and will not be treated as such by the group and organizers.
+Every Issue created will have a deadline. If the Issue is not done by then or the deadline moved, the assignees will be reminded via E-Mail a week before the deadline expires. Overdue Issues / Tasks will get reminders very frequently, a week before the next meeting.
+
+Epic Issues and Milestones are managed by the organizers.
+
+Projects are managed by their corresponding maintainers. The maintainers will get reminders, should the progress / organization there stagnate.
+
+The meetings are used to discuss progress, problems and new ideas. Therefore, they will be used as deadlines for the Issues, which will be presented in an appropriate amount of time according to the task’s significance, extent and correlating tasks. In addition, the project maintainers will update on what has happened since the last meeting and the organizers will show the progress on the Epic Issues.
 
 ## Copyright and Licensing
 
