@@ -24,6 +24,13 @@
 
 ![Data Sovereignty continuum](./media/DataSovereignty.png)
 
+## Interoperability as key enabler for Data Spaces
+
+* Interoperability is key
+* Reference to EIF Layers
+
+![European Interoperabiliyt Framework](./media/EIF.png)
+
 ## Trust in Data Spaces
 
 * why is trust required
