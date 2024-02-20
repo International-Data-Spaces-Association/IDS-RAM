@@ -11,10 +11,23 @@
 
 # foundational aspects of a Data Space
 
+## Core role model
+
 * Everthing is a participant
 * Different roles exist DSGA, Partipant, Value Added services
 
 ![Overview](./media/dataspace.png)
+
+## Data sovereignty
+
+* Data Sovereignty is a continuum
+
+![Data Sovereignty continuum](./media/DataSovereignty.png)
+
+## Trust in Data Spaces
+
+* why is trust required
+* what are the key characteristics of trust here
 
 > **Important Note**:
 >
