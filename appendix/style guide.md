@@ -1,4 +1,4 @@
-﻿# GitHub Style Guide
+# GitHub Style Guide
 
 
 ## Please note
@@ -7,7 +7,51 @@
 In some instances there may be different possibilities to format what is described here. To ensure a continuous formatting throughout the repository / file, **please use the manner that is described in this file.**
 
 ## Basics
-### Lines and Spaces
+### Lines
+
+In Markdown, making a line space with `enter`, only translates to one line break, no matter how many are in the code.
+
+````
+The quick
+
+brown fox
+
+jumps over the lazy dog.
+````
+
+translates to:
+
+The quick 
+
+brown fox jumps 
+
+over the lazy dog.
+````
+The quick 
+
+
+
+brown fox jumps 
+
+
+
+over the lazy dog.
+````
+
+stays the same.
+
+If you only use `enter` to get to another line, this will not translate and all stay in the same line:
+````
+The quick 
+brown fox jumps 
+over the lazy dog.
+````
+The quick 
+brown fox jumps 
+over the lazy dog
+
+### Spaces
+
 
 ## Headings
 
@@ -116,3 +160,50 @@ Please take care, that there has to be a space between `.` and the text.
 
 #### Indentation
 
+If you have something to add to the counted point, please **do not** indent the numbered list.
+You can only use whole numbers as a list, which will cause confusion.
+
+````
+1. one
+	2. sub-one
+2. two
+````
+
+1. one
+	2. sub-one
+2. two
+
+Instead, you can indent an unsorted list:
+````
+1. one
+	- sub-one
+2. two
+````
+
+1. one
+	- sub-one
+2. two
+
+Or leave the list formatting out:
+````
+1. one
+	sub-one
+2. two
+````
+1. one
+	sub-one
+2. two
+
+## Links
+
+### Internet
+
+
+
+### Mail
+
+## Graphic
+
+### Media / Pictures
+
+### Tables
