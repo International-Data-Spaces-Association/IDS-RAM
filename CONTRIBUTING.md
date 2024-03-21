@@ -33,8 +33,8 @@ the scope of your changes.
 The [labels](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/labels) are listed at the
 [issues](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/issues).
 There are two types of labels: one describes the content of the issue and should be used by the
-developer that creates the issue. The other one, starting with `status`, will be added from the
-developer that takes on the issue. New issues should be initially marked with `status:open`.
+contributor that creates the issue. The other one, starting with `status`, will be added from the
+contributor that takes on the issue. New issues should be initially marked with `status:open`.
 **Please always use Labels on the Issues you create.**
 Some Labels are attached automatically with certain Issue Templates
 
@@ -45,7 +45,7 @@ Some Labels are attached automatically with certain Issue Templates
 *  `status:on-hold`: issue may be implemented at a later date
 *  `status:open`: issue has been submitted or re-opened recently
 *  `status:out-of-scope`: issue is considered out of the project's scope and therefore not further considered
-*  `status:resolved`: issue has been implemented and tested by a developer
+*  `status:resolved`: issue has been implemented and tested by a contributor
 *  `wont-fix`: issue is in scope but considered impossible or too expensive to deal with
 *  `Epic`: Issue ia an Epic (see below)
 
@@ -85,17 +85,6 @@ An example of a very good commit might look like this: `feat![login]: add awesom
 ## Milestones
 
 Milestones collect Epics with a set and strict deadline. Milestone progress gets observed and discussed in the RAM5 Meetings.
-
-## Workflow and Meetings
-
-In general, tasks that are not in the GitHub repository as issues, are not officially tasks and will not be treated as such by the group and organizers.
-Every Issue created will have a deadline. If the Issue is not done by then or the deadline moved, the assignees will be reminded via E-Mail a week before the deadline expires. Overdue Issues / Tasks will get reminders very frequently, a week before the next meeting.
-
-Epic Issues and Milestones are managed by the organizers.
-
-Projects are managed by their corresponding maintainers. The maintainers will get reminders, should the progress / organization there stagnate.
-
-The meetings are used to discuss progress, problems and new ideas. Therefore, they will be used as deadlines for the Issues, which will be presented in an appropriate amount of time according to the task’s significance, extent and correlating tasks. In addition, the project maintainers will update on what has happened since the last meeting and the organizers will show the progress on the Epic Issues.
 
 ## Copyright and Licensing
 
