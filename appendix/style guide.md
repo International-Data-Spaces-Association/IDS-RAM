@@ -1,12 +1,30 @@
 # GitHub Style Guide
 
-
 ## Please note
 
 
 In some instances there may be different possibilities to format what is described here. To ensure a continuous formatting throughout the repository / file, **please use the manner that is described in this file.**
 
+## Content
+
+- [Basics](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#basics)
+	- [Lines](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#lines)
+	- [Highlighting](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#highlighting)
+- [Headings](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#headings)
+	- [Sizes](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#sizes)
+	- [Heading Order](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#heading-order)
+- [Lists](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#lists)
+	- [Unordered List Style](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#unordered-list-style)
+ 	- [Ordered Lists Style](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#ordered-lists-style)
+- [Links](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#links)
+	- [Internet](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#internet)
+ 	- [Mail](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#mail)
+- [Graphic](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#graphic)
+	- [Media / Pictures](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#media--pictures)
+	- [Tables](https://github.com/International-Data-Spaces-Association/RAM5/blob/create-style-guide/appendix/style%20guide.md#tables)
+
 ## Basics
+
 ### Lines
 
 In Markdown, making a line space with `enter`, only translates to one line break, no matter how many are in the code.
@@ -74,7 +92,7 @@ which will be shown as:
 >important note
 
 >[!Warning]
->Imortant Warning
+>Important Warning
 
 (For this you do not need an extra empty row to go into the next one)
 
