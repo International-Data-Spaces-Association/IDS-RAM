@@ -49,6 +49,17 @@ Some Labels are attached automatically with certain Issue Templates
 *  `wont-fix`: issue is in scope but considered impossible or too expensive to deal with
 *  `Epic`: Issue ia an Epic (see below)
 
+## Workflow and Meetings
+
+In general, tasks that are not in the GitHub repository as issues, are not officially tasks and will not be treated as such by the group and organizers.
+Every Issue created will have a deadline.
+
+Epic Issues and Milestones are managed by the organizers.
+
+Projects are managed by their corresponding maintainers. The maintainers will get reminders, should the progress / organization there stagnate.
+
+The meetings are used to discuss progress, problems and new ideas. Therefore, they will be used as deadlines for the Issues, which will be presented in an appropriate amount of time according to the task’s significance, extent and correlating tasks. In addition, the project maintainers will update on what has happened since the last meeting and the organizers will show the progress on the Epic Issues.
+
 ## Epic Issues
 
 Epic Issues are needed to organize, structure and visualize existing Issues. They are usually pinned to the top.
