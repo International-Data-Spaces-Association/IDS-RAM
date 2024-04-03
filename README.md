@@ -24,9 +24,9 @@ The RAM 5 document will not be a linear document like RAM 4 but will contain lin
 The expected timeline is to provide a first draft of RAM 5 until the end of quarter 2 2024 and a final document until the end of quarter 2 2025. 
 
 ![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
-#### _Figure 1.1: Expected timeline for the IDS RAM 5_
+#### _Figure 1.2: Proposed timeline for the IDS RAM 5_
 
-Please see the [Project outline document](./resources/RAM5projectoutline.docx) for more details on the activities planned for each quarterly milestone.
+Please see the [RAM 5 Project outline document](./resources/RAM5_project_outline.docx) for more details on the activities planned for each quarterly milestone.
 
 ## Structure ##
 
@@ -35,7 +35,7 @@ RAM 5 will follow the same five-layer structure used by RAM 4.0 to express vario
 This is complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
 
  ![Structure of IDS RAM](./documentation/media/RAM5_structure.png)
-#### _Figure 1.1: Layers and Perspectives of IDS RAM_
+#### _Figure 1.3: Layers and Perspectives of IDS RAM_
 
 Each of these layers and perspectives will be described in a different section of this document. Two additional sections will be added to provide additional context for the readers:
 - Foundation section, which will present all the concepts that one should be familiar with before delving into the details of the RAM layers and perspectives. 
@@ -46,25 +46,30 @@ This results in the following structure for this repository:
 - [Section 1: Introduction](./documentation/1_introduction/README.md)
 - [Section 2: Context of IDS](./documentation/2_context/README.md)
 - [Section 3: Layers of the RAM](./documentation/3_layers/README.md)
-  - [Section 3.1: Foundation](./documentation/3_layers/3_1_foundation/README.md)
-  - [Section 3.2: Business Layer](./documentation/3_layers/3_2_business/README.md)
-  - [Section 3.3: Functional Layer](./documentation/3_layers/3_3_functional/README.md)
-  - [Section 3.4: Information Layer](./documentation/3_layers/3_4_information/README.md)
-  - [Section 3.5: Process Layer](./documentation/3_layers/3_5_process/README.md)
-  - [Section 3.6: System Layer](./documentation/3_layers/3_6_system/README.md)
+  - [Section 3.1: Foundation](./documentation/3_layers/3_1_foundation/foundation.md)
+  - [Section 3.2: Business Layer](./documentation/3_layers/3_2_business/business.md)
+  - [Section 3.3: Functional Layer](./documentation/3_layers/3_3_functional/functional.md)
+  - [Section 3.4: Information Layer](./documentation/3_layers/3_4_information/information.md)
+  - [Section 3.5: Process Layer](./documentation/3_layers/3_5_process/process.md)
+  - [Section 3.6: System Layer](./documentation/3_layers/3_6_system/system.md)
 - [Section 4: Perspectives of the RAM](./documentation/4_perspectives/README.md)
-  - [Section 4.1: Security Perspective](./documentation/4_perspectives/4_1_trust/README.md)
+  - [Section 4.1: Trust Perspective](./documentation/4_perspectives/4_1_trust/README.md)
   - [Section 4.2: Certification Perspective](./documentation/4_perspectives/4_2_certification/README.md)
   - [Section 4.3: Governance Perspective](./documentation/4_perspectives/4_3_data_governance/README.md)
 
 ## How to contribute ##
 
-Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
+1- Start by getting some context by looking at [this PPT](https://digitalhubeu.sharepoint.com/:p:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/Towards%20RAM5.pptx?d=w9e877a51db53436e9181a01d53d92b6e&csf=1&web=1&e=fvGRSY) for onboarding.
+
+2- Take a look at the [RAM 5 Project outline document](https://digitalhubeu.sharepoint.com/:w:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/RAM%205%20project%20outline.docx?d=w57366d114bc44bd9a6ab2e0b7f3858c7&csf=1&web=1&e=PY2bi4) or the [RAM 5 Project board](https://github.com/orgs/International-Data-Spaces-Association/projects/11/views/5) for an overall view of the RAM 5 activities
+
+3- Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
 and [pull requests](https://github.com/International-Data-Spaces-Association/RAM5/pulls).
 
-Please also consider the following:
+4- Let us know you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls
 
-- [Project board](https://github.com/orgs/International-Data-Spaces-Association/projects/11/views/5) for an overall view of the RAM 5 activities, 
+5- Please also consider the following:
+
 - [Code of Conduct](./CODE_OF_CONDUCT.md),
 - [Contributing Guidelines](./CONTRIBUTING.md),
 - [License](./LICENSE.md),
@@ -72,16 +77,16 @@ Please also consider the following:
 
 ## How to connect with others working on RAM 5 ##
 
-- Join the **RAM 5 bi-weekly Touch-point calls** on **Mondays** at **10 CEST**: This is the sync point for contributors and maintainers. 
+- Join the **RAM 5 Touch-point calls** bi-weekly on Mondays at 10 CEST: This is the sync point for contributors and maintainers. 
 
 - Attend the **[Working Group Architecture](https://github.com/International-Data-Spaces-Association/members-area/tree/main/WorkingGroups/Architecture) quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 is discussed and the work completed in each quarter gets reviewed/approved by the WG members
 
 **Upcoming meetings:**
-- April 15, 9:00 - 10:30 CEST, [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d): **RAM 5 Q2 Planning meeting**, in which we will onboard new contributors, review Q1 items, and plan Q2 activities 
-- April 22 & May 6, 10:00 - 11:00 CEST, [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d): **Regular RAM 5 Touch-point calls**
+- **April 15**, 9:00 - 10:30 CEST: **RAM 5 Q2 Planning meeting**, in which we will onboard new contributors, review Q1 items, and plan Q2 activities: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d)
+- **April 22 & May 6**, 10:00 - 11:00 CEST: **Regular RAM 5 Touch-point calls**: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d)
 
-- April 3rd week: Online **Workshops on Trust and Observability** topics, Date/time TBD
-- June 18, location TBD, **Q2 Working group Architecture meeting**
+- **April 3rd week**: Online **Workshops on Trust and Observability** topics: Date/time TBD
+- **June 18**: Onsite **Working Group Architecture Q2 meeting**: location TBD
 
 ## Further resources ##
 
