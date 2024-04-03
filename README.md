@@ -4,13 +4,13 @@ Welcome to the IDS RAM 5 repository of the [IDSA](../../../idsa), the working re
 
 ## Overview ##
 
-The IDS-RAM provides a conceptual framework for designing and implementing IDS-compliant data spaces. It defines the key roles, their interactions, the components, and the principles that govern the architecture of an IDS data space. 
+The IDS-RAM (International Data Spaces Reference Architecture Model) provides a conceptual framework for designing and implementing IDS-compliant data spaces. It defines the key roles, their interactions, the components, and the principles that govern the architecture of an IDS data space. 
 
 An IDSA Techtalk webinar provides an overview of the current release version IDS RAM 4.0: [Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
 
 This repository will be used to create the new version of IDS RAM. 
 
-## Vision for RAM 5 ##
+## Vision for IDS-RAM 5 ##
 
  ![New version of IDS RAM](./documentation/media/RAM5_vision.png)
 #### _Figure 1.1: Improvements envisioned for IDS RAM 5 at a high-level_
@@ -21,7 +21,7 @@ The RAM 5 document will not be a linear document like RAM 4 but will contain lin
 
 ## Timeline ##
 
-The expected timeline is to provide a first draft of RAM 5 until the end of quarter 2 2024 and a final document until the end of quarter 2 2025. 
+The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025. 
 
 ![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
 #### _Figure 1.2: Proposed timeline for the IDS RAM 5_
@@ -32,7 +32,7 @@ Please see the [RAM 5 Project outline document](./resources/RAM5_project_outline
 
 RAM 5 will follow the same five-layer structure used by RAM 4.0 to express various stakeholders’ concerns and viewpoints at different levels of granularity: business, functional, process, information, and system.
 
-This is complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
+This will be complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
 
  ![Structure of IDS RAM](./documentation/media/RAM5_structure.png)
 #### _Figure 1.3: Layers and Perspectives of IDS RAM_
@@ -59,14 +59,14 @@ This results in the following structure for this repository:
 
 ## How to contribute ##
 
-1- Start by getting some context by looking at [this PPT](https://digitalhubeu.sharepoint.com/:p:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/Towards%20RAM5.pptx?d=w9e877a51db53436e9181a01d53d92b6e&csf=1&web=1&e=fvGRSY) for onboarding.
+1- Start by getting some context by looking at [this PPT for onboarding](https://digitalhubeu.sharepoint.com/:p:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/Towards%20RAM5.pptx?d=w9e877a51db53436e9181a01d53d92b6e&csf=1&web=1&e=fvGRSY).
 
-2- Take a look at the [RAM 5 Project outline document](https://digitalhubeu.sharepoint.com/:w:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/RAM%205%20project%20outline.docx?d=w57366d114bc44bd9a6ab2e0b7f3858c7&csf=1&web=1&e=PY2bi4) or the [RAM 5 Project board](https://github.com/orgs/International-Data-Spaces-Association/projects/11/views/5) for an overall view of the RAM 5 activities
+2- Take a look at the [RAM 5 Project outline document](https://digitalhubeu.sharepoint.com/:w:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/RAM%205%20project%20outline.docx?d=w57366d114bc44bd9a6ab2e0b7f3858c7&csf=1&web=1&e=PY2bi4) or the [RAM 5 Project board](https://github.com/orgs/International-Data-Spaces-Association/projects/11/views/5) for an overall view of the RAM 5 activities.
 
 3- Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
 and [pull requests](https://github.com/International-Data-Spaces-Association/RAM5/pulls).
 
-4- Let us know you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls
+4- Let us know you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
 
 5- Please also consider the following:
 
@@ -90,7 +90,12 @@ and [pull requests](https://github.com/International-Data-Spaces-Association/RAM
 
 ## Further resources ##
 
-The IDS RAM contains the conceptual level framework for dataspaces including technology-agnostic specifications. It is complemented with additional documents and repositories:
+To have more context, you can take a look at:
+- The current release version: [IDS RAM 4.0](https://docs.internationaldataspaces.org/ids-knowledgebase/v/ids-ram-4) 
+- A webinar which provides a high-level overview of RAM 4.0: [IDSA TechTalk Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
+
+
+The IDS RAM contains the conceptual level framework for dataspaces including technology-agnostic specifications. You may want to get familiar with the following documents that complement the RAM:
  - [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) describes how to operate a dataspace based on the BLOFT (Business, Legal, Operational, Functional, Technical) aspects.
  - [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme) is a set of specifications designed to facilitate interoperable data sharing between entities governed by usage control and based on Web technologies. 
  - [DSSC Blueprint](https://dssc.eu/space/BVE/357073006/Data+Spaces+Blueprint+v1.0) is a set of guidelines by the [Dataspaces support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
