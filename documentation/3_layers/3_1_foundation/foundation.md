@@ -11,8 +11,24 @@
 
 # foundational aspects of a Data Space
 
+This section covers the foundational aspects of Data Spaces. In the remainder of the document, a Reference Architecture is provided as a framework for building and maintaining Data Spaces focussing on five layers and three cross cutting perspectives.
+Following the [glossary definition](https://dssc.eu/space/BVE/357073747/2+Core+Concepts) of the [Data Spaces Support Centre - DSSC](https://dssc.eu/) a Data Space is:
+
+>A distributed system defined by a **governance framework** that enables secure and trustworthy data transactions between **participants** while supporting trust and **data sovereignty**.
+
+Foundational for the understanding of the Data Space are the following concepts:
+
+* The Core Role Model describes the mechanisms to participate in a Data Space, based on a given governance framework.
+* Data Sovereignty as a goal to participate in Data Space and sharing data can be realized in various ways.
+* Trust between the participants and in a Data Space as key goal of a referece Architecture.
+* Interoperabiliy as a key enabler of Data Spaces and its different dimensions.
+* Data Value Creation as an important goal of Data Space participants. This can be achieved beyond data marketplaces.
+
+The following sections will provide an overview on those fundamental aspects. The details are covered in the remainder of the document. The [How to read this document]() provides guidance for readers.
+
 ## Core role model
 
+It is the g
 * Everthing is a participant
 * Different roles exist DSGA, Partipant, Value Added services
 
@@ -24,6 +40,11 @@
 
 ![Data Sovereignty continuum](./media/DataSovereignty.png)
 
+## Trust in Data Spaces
+
+* why is trust required
+* what are the key characteristics of trust here
+
 ## Interoperability as key enabler for Data Spaces
 
 * Interoperability is key
@@ -32,10 +53,7 @@
 
 ![European Interoperabiliyt Framework](./media/EIF.png)
 
-## Trust in Data Spaces
 
-* why is trust required
-* what are the key characteristics of trust here
 
 ## Data Value Creation
 
