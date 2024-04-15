@@ -22,7 +22,7 @@ The RAM 5 document will not be a linear document like RAM 4 but will contain lin
 
 ## Timeline ##
 
-The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025. 
+The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025.
 
 ![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
 
