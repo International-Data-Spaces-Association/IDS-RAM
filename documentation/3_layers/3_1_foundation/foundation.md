@@ -9,7 +9,7 @@
 > [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM
 > need to be linked.
 
-# foundational aspects of a Data Space
+# Foundational aspects of a Data Space
 
 This section covers the foundational aspects of Data Spaces. In the remainder of the document, a Reference Architecture is provided as a framework for building and maintaining Data Spaces focussing on five layers and three cross cutting perspectives.
 Following the [glossary definition](https://dssc.eu/space/BVE/357073747/2+Core+Concepts) of the [Data Spaces Support Centre - DSSC](https://dssc.eu/) a Data Space is:
@@ -52,8 +52,6 @@ It is the g
 * Reference Semantic Interoperability Paper
 
 ![European Interoperabiliyt Framework](./media/EIF.png)
-
-
 
 ## Data Value Creation
 
