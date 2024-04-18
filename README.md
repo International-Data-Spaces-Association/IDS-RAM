@@ -83,19 +83,11 @@ and [pull requests](https://github.com/International-Data-Spaces-Association/RAM
 
 - Join the **RAM 5 Touch-point calls** bi-weekly on Mondays at 10 CEST: This is the sync point for contributors and maintainers.
 
-- Attend the **[Working Group Architecture](https://github.com/International-Data-Spaces-Association/members-area/tree/main/WorkingGroups/Architecture) quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 among other assets of the working group is discussed and the work completed in each quarter gets reviewed/approved by the WG members
+- Participate in **RAM 5 workshops** organized on specific topics such as Trust, Observability, Interoperability, etc. See this [page](https://github.com/International-Data-Spaces-Association/RAM5/discussions/49) for details on the upcoming workshops.
 
-**Upcoming meetings for Q2, 2024:**
+- Attend the **Working Group Architecture quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 among other assets of the working group is discussed and the work completed in each quarter gets reviewed/approved by the WG members.
 
-- **April 15**, 9:00 - 10:30 CEST: **RAM 5 Q2 Planning meeting**, in which we will onboard new contributors, review Q1 items, and plan Q2 activities: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d)
-
-- **April 16**, 11:00-12:30 CEST: Workshop on Observability: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljNzVkMmEtYTI0YS00OTFjLTkxODItYzAwMzE3ZGFlNTRj%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22f8eef11b-11c8-43d3-bd94-2fb9e022f69b%22%7d)
-
-- **April 17**, 11:00-12:30 CEST: TWorkshop on Trust: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTljMzIyYWYtMDQ2Ny00ZDVhLWEyZGItMDU0YzM0MmU0YTY1%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22f8eef11b-11c8-43d3-bd94-2fb9e022f69b%22%7d)
-
-- **April 22, May 6, May 20, June 3**, 10:00 - 11:00 CEST: **Regular RAM 5 Touch-point calls**: [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiMzIyMjAtMjExNC00MTA3LTk4YzQtYTMwOGZkM2EyYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b346d634-acfb-42c7-bd44-f1557ee89b1b%22%2c%22Oid%22%3a%22c9086e3b-6b48-4bef-817c-7f843ae73578%22%7d)
-
-- **June 18**, 10:00 - 17:00: Online **Working Group Architecture Q2 meeting**: [Teams link](https://github.com/International-Data-Spaces-Association/members-area/blob/main/WorkingGroups/Architecture/meetings%20architecture/2024-06-18/2024-06-18_Information.md)
+All details for the upcoming meetings and past events are available here: [Meetings for RAM 5 and Working Group Architecture](https://github.com/International-Data-Spaces-Association/RAM5/discussions/49)
 
 ## Further resources ##
 
