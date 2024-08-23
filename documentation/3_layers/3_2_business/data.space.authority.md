@@ -9,7 +9,7 @@
 > [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM 
 > need to be linked.
 
-# Data Sapce Authority
+# Data Space Authority
 
 > **Important Note**:
 >
