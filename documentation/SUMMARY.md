@@ -1,12 +1,13 @@
 # Summary
 
-## Front Matter
-
 * [README](./README.md)
+  
+## FRONT MATTER
+* [Front Matter](./FrontMatter.md)
 
 ## IDS RAM 5
 
-* [Introduction](./1_Introduction.md)
+<!-- * [Introduction](./1_Introduction.md)-->
 <!-- * [Context of the RAM](./2_context/README.md)-->
 * [Foundational aspects of the RAM](./3_layers/3_1_foundation/foundation.md)
 <!-- * [Layers of the RAM](./3_layers/README.md)
