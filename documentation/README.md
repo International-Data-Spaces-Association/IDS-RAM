@@ -27,7 +27,7 @@ This first edition of IDS RAM-5 is not a complete version, but rather a prelimin
 
 ## Vision for IDS-RAM 5 ##
 
- ![New version of IDS RAM](./media/RAM5_vision.png)
+ ![ ](./media/RAM5_vision.png)
 
 #### _Figure 1.1: Improvements envisioned for IDS RAM 5 at a high-level_####
 
@@ -45,9 +45,9 @@ RAM 5 will follow the same five-layer structure used by RAM 4.0 to express vario
 
 This will be complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
 
- ![Structure of IDS RAM](./media/RAM5_structure.png)
+ ![ ](./media/RAM5_structure.png)
 
-#### _Figure 1.3: Layers and Perspectives of IDS RAM_####
+#### _Figure 1.2: Layers and Perspectives of IDS RAM_####
 
 Each of these layers and perspectives will be described in a different section of this document. 
 
