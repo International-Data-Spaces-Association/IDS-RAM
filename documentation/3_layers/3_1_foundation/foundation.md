@@ -1,3 +1,4 @@
+<!--
 >
 > This document is written in Mardown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 >
@@ -8,15 +9,18 @@
 > known before reading. Think about which _section_ of the 
 > [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM 
 > need to be linked.
+-->
 
-# foundational aspects of a Data Space
+# Foundational aspects of a Data Space
 
 * Everthing is a participant
 * Different roles exist DSGA, Partipant, Value Added services
 
 ![Overview](./media/dataspace.png)
 
+<!--
 > **Important Note**:
 >
 > Please provide links to files in the RAM, which are a good point to continue from here.
 >
+-->
