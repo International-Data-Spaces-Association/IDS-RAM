@@ -1,4 +1,5 @@
-# IDS Reference Architecture Model Version 5 - Preliminary Draft
+# IDS Reference Architecture Model Version 5 - Working Draft 1
+
 <!-- Note: This README will serve as the coverpage in the GitBook rendering of the IDS-RAM 5 content. So please keep only external info and links in this page -->
 
 <!--
@@ -23,7 +24,7 @@
 
 The IDS-RAM (International Data Spaces Reference Architecture Model) provides a conceptual framework for designing and implementing IDS-compliant data spaces, following the [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook). It defines the key roles, their interactions, the components, and the principles that govern the architecture of an IDS data space. 
 
-This first edition of IDS RAM-5 is not a complete version, but rather a preliminary draft to provide a glimpse of the updates coming up in the full version.
+This working draft of IDS RAM-5 is not a complete version, but rather a preliminary draft to guide the ongoing development.
 
 ## Vision for IDS-RAM 5 ##
 
@@ -37,7 +38,7 @@ The RAM 5 document will not be a linear document like RAM 4.0 but will contain l
 
 ## Timeline ##
 
-The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025.
+The expected timeline is to provide a first draft of RAM 5 by the end of Quarter 2 2024 and a final document by the end of Quarter 2 2025.
 
 ## Structure ##
 
@@ -67,6 +68,7 @@ All other feedback are welcome as well! Please contact the [IDSA Head Office](ht
 To have more context, please consider taking a look at the following resources:
 
 The previous release version of IDS-RAM:
+
 - IDS-RAM 4.0 in [Docs](https://docs.internationaldataspaces.org/ids-knowledgebase/v/ids-ram-4) and on [Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/)
 - A webinar which provides a high-level overview of IDS-RAM 4.0: [IDSA TechTalk Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
 
