@@ -1,16 +1,3 @@
-<!--
->
-> This document is written in Markdown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
->
-
-> **Important Note**:
->
-> Each file needs an introduction containing links to important resources to be considered to be
-> known before reading. Think about which _section_ of the 
-> [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM
-> need to be linked.
--->
-
 # Foundational aspects of a Data Space
 
 ## General considerations
@@ -21,17 +8,6 @@ The principle of trusted data sharing is crucial for participants in Data Spaces
 
 The IDS-Reference Architecture describes the technical concepts and mechanisms based on the structural definitions of the IDSA Rulebook. This foundational section provides an introduction to the core concepts of Data Spaces and the interaction mechanisms.
 
-<!--
-Foundational for the understanding of the Data Space are the following concepts:
-
-* The Core Role Model describes the mechanisms to participate in a Data Space, based on a given governance framework.
-* Data Sovereignty as a goal to participate in Data Space and sharing data can be realized in various ways.
-* Trust between the participants and in a Data Space as key goal of a referece Architecture.
-* Interoperabiliy as a key enabler of Data Spaces and its different dimensions.
-* Data Value Creation as an important goal of Data Space participants. This can be achieved beyond data marketplaces.
-
-The following sections will provide an overview on those fundamental aspects. The details are covered in the remainder of the document. The [How to read this document]() provides guidance for readers.
--->
 ## Participation in Data Spaces
 
 The participation in a Data Space is bound to the rules defined in the overaching governance framework, as described in the IDSA Rulebook. While the Data Space Governance Scheme describes the common goals of the participants, each participant will also pursue its individual goals. In a techncial sense, this can be separated into:
@@ -46,7 +22,6 @@ To do so, participants of a Data Space require interoperable solutions, and meas
 The following diagram provides an overview on the Data Space concepts based on the IDSA Rulebook
 
 ![Overview Data Space concepts](./media/dataspace.png)
-
 
 ## Data sharing contracts and its relation to Data sovereignty
 
@@ -69,20 +44,32 @@ The [Trust Perspective](../../4_perspectives/4_1_trust/trust.perspective.md) ela
 
 ## Interoperability as key enabler for Data Spaces
 
-
-
 Data Sharing between organizations in a trusted way is a key motivation for Data Spaces. This requires Interoperability on various levels, e.g Interoperability between organizations allows to “exchange information and to mutually use the information that has been exchanged” (See ISO/IEC 22123-1).
 
 The interoperability facet model as defined in ISO/IEC 19941 breaks interoperability into five facets, which apply to Data Spaces and are the foundation for trusted data sharing between organizations.
 The European Interoperability Framework describes a similar mechanism, but utilizing four layers. A detailled comparison is part of the [IDSA Rulebook section on Interoperability]().
 
-The IDS-RAM information layer provides an overview on aspects for semantic interoperabilty. The systems layer describes in more detail the technical interoperability aspects and the process layer describes in more detail the behavioural aspects. 
+The IDS-RAM information layer provides an overview on aspects for semantic interoperabilty. The systems layer describes in more detail the technical interoperability aspects and the process layer describes in more detail the behavioural aspects.
 
 To do: see also semantic paper
 
 ## Data Value Creation
 
 Data Value Creation can be achieved with various means. It is not limited to data marketplaces, but can also include increased transparency in supply chains, digital twins and beyond. Such aspects depend on industry, domain, use cases and business models. The value creation is therefore not subject of the IDS RAM. Further reading on Business Models for and in Data Spaces can be found in the [IDSA document on Data Space Business Models]().
+
+## Summary
+
+Data Spaces base on governance frameworks and supporting services to build trustworthiness and enable the sharing of data through an agreed set of policies, semantic models, protocols and processes. Their key concepts are:
+
+* Controling the access and usage to data
+* Establishing trust between participants during the data sharing process and beyond
+* Discoverability of data
+* Negotiable data sharing contracts
+* Orchestration and management of the data sharing process
+* Adjustable Transparency and observability
+* Interoperability
+
+to achieve the autonomy and agency of the Data Space participants.
 
 ## References
 
