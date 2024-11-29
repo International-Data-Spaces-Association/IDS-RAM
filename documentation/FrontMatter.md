@@ -1,13 +1,13 @@
-# IDS Reference Architecture Model Version 5 - preliminary draft #
+# IDS Reference Architecture Model Version 5 - Working Draft 1 #
 
 
 ## Publisher ##
 
 International Data Spaces Association
 
-Anna-Louisa-Karsch-Str. 2
+Emil-Figge-Str. 80
 
-10178 Berlin
+44288 Dortmund
 
 Germany
 
@@ -21,11 +21,14 @@ International Data Spaces Association
 
 International Data Spaces Association,
 
-Dortmund, Germany, 2022
+Dortmund, Germany, 2024
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Authors and Contributors ##
-TBD.
+
+* Ilknur Chulani -IDSA
+* Peter Koen - Microsoft
+*  ...
