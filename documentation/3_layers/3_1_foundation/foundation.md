@@ -73,10 +73,7 @@ to achieve the autonomy and agency of the Data Space participants.
 
 ## References
 
-Learn more about trust in the Trust perspective
-
-Learn ore about business models in the business model paper
- Learn more about interop in 19941
- learn more about interop in the DSP
-
- Learn more about dataspaces in 20151
+* Learn ore about business models in the business model paper
+* Learn more about interoperability facets in [IS 19941]
+* Learn more about interoperability in Data Spaces in the Dataspace Protocol
+* Learn more about dataspaces in [20151]
