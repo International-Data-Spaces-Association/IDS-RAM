@@ -20,7 +20,7 @@
 * [Introduction](./README.md)
 * [Foundational Aspects](./3_layers/3_1_foundation/foundation.md)
 
-## Introduction
+## Editorial overview
 
 The IDS-RAM (International Data Spaces Reference Architecture Model) provides a conceptual framework for designing and implementing IDS-compliant data spaces, following the [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook). It defines the key roles, their interactions, the components, and the principles that govern the architecture of an IDS data space. 
 
