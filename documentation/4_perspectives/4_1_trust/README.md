@@ -1,17 +1,10 @@
 # Trust perspective
 
->
-> This document is written in Markdown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
->
-
-> **Important Note**:
->
-> Each file needs an introduction containing links to important resources to be considered to be
-> known before reading. Think about which _section_ of the
-> [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM
-> need to be linked.
+## General 
 
 As Trust is a key aspect of Data Spaces, the Trust Perspective needs to describe clearly how existing mechanisms can be utilized to serve the needs of Data Spaces. This includes security measures for providing secure platforms and secure communications but also utilizing Usage Control mechanisms and their relation to privacy-enhancing and privacy-preserving technologies (PET, PPT).
+
+This section is based on the defintions of the [IDSA Rulebook]() and the [foundation section of the IDS RAM](../../3_layers/3_1_foundation/foundation.md).
 
 ## Objectives
 
