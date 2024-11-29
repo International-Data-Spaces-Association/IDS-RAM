@@ -58,32 +58,33 @@ A framework to determine the required degree of autonomy and agency of a partici
 
 ## Trust in Data Spaces
 
+Trust in Data Space is based on two key aspects:
 
+* Multi-level-policies expressing rights and obligations: Policies can be defined on various levels. The sharing of data can be subject of regulations, the Data Space Governance Framework provides the fundamental rules for the collabroation in a data space, and participants maintain individual agreements for data sharing. As described in the IDSA Rulebook, policies can be subject to the access to data and to the usage of data.
+* Claims as attributes of an entity. They can express various aspects, such as identity, statement of quality, conformity to standards, legal status, location. Those express trustworthiness and enable the trust between the data space participants.
 
-Rulebook intro and policy claims reconsilliation, more details in the trust perpective. Important, no indivudials and triangle of trust. 
-* why is trust required
-* what are the key characteristics of trust here
+> Note: Identities of organizations and services are an important claim when organizations interact, like in Data Spaces, but are not sufficient to enable trust between participants.
+
+The [Trust Perspective](../../4_perspectives/4_1_trust/trust.perspective.md) elaborates in more detail on Trust in Data Spaces.
 
 ## Interoperability as key enabler for Data Spaces
 
-* Interoperability is key
-* Reference to EIF Layers
-* Reference Semantic Interoperability Paper
 
-![European Interoperabiliyt Framework](./media/EIF.png)
+
+Data Sharing between organizations in a trusted way is a key motivation for Data Spaces. This requires Interoperability on various levels, e.g Interoperability between organizations allows to “exchange information and to mutually use the information that has been exchanged” (See ISO/IEC 22123-1).
+
+The interoperability facet model as defined in ISO/IEC 19941 breaks interoperability into five facets, which apply to Data Spaces and are the foundation for trusted data sharing between organizations.
+The European Interoperability Framework describes a similar mechanism, but utilizing four layers. A detailled comparison is part of the [IDSA Rulebook section on Interoperability]().
+
+The IDS-RAM information layer provides an overview on aspects for semantic interoperabilty. The systems layer describes in more detail the technical interoperability aspects and the process layer describes in more detail the behavioural aspects. 
+
+To do: see also semantic paper
 
 ## Data Value Creation
 
-* How does the IDS RAM relate to Data Value creation, does it cover the blueprint for building a data marketplace and will it propose a business model? Brief sketch.
+Data Value Creation can be achieved with various means. It is not limited to data marketplaces, but can also include increased transparency in supply chains, digital twins and beyond. Such aspects depend on industry, domain, use cases and business models. The value creation is therefore not subject of the IDS RAM. Further reading on Business Models for and in Data Spaces can be found in the [IDSA document on Data Space Business Models]().
 
-> Note: add a new perspective for Data Value Creation to the RAM (4.4) and try to fill it with content. Could be in the end an appendix.
-
-
-> **Important Note**:
->
-> Please provide links to files in the RAM, which are a good point to continue from here.
->
--->
+## References
 
 Learn more about trust in the Trust perspective
 
