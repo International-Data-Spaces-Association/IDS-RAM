@@ -1,15 +1,17 @@
 # Summary
 
-## Front Matter
 
 * [README](./README.md)
+  
+## FRONT MATTER
+* [Front Matter](./FrontMatter.md)
 
-## IDSA Rulebook
+## IDS RAM 5
 
-* [Introduction](./1_Introduction.md)
-* [Context of the RAM](./2_context/README.md)
+<!-- * [Introduction](./1_Introduction.md)-->
+<!-- * [Context of the RAM](./2_context/README.md)-->
 * [Foundational aspects of the RAM](./3_layers/3_1_foundation/foundation.md)
-* [Layers of the RAM](./3_layers/README.md)
+<!-- * [Layers of the RAM](./3_layers/README.md)
 * [Business Layer](./3_layers/3_2_business/business.md)
 * [Functional Layer](./3_layers/3_3_functional/functional.md)
 * [Information Layer](./3_layers/3_3_functional/functional.md)
@@ -20,4 +22,4 @@
 * [Certification Perspective](./4_perspectives/4_2_certification/README.md)
 * [Data Governance](./4_perspectives/4_3_data_governance/README.md)
 * [Appendix](./appendix/README.md)
-* [Appendix - Styleguide](./appendix/styleguide.md)
+* [Appendix - Styleguide](./appendix/styleguide.md) -->

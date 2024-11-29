@@ -1,5 +1,6 @@
+<!--
 >
-> This document is written in Mardown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
+> This document is written in Markdown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 >
 
 > **Important Note**:
@@ -8,6 +9,7 @@
 > known before reading. Think about which _section_ of the 
 > [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook) need to be linked, which files in the RAM
 > need to be linked.
+-->
 
 # Foundational aspects of a Data Space
 
@@ -34,6 +36,7 @@ It is the g
 
 ![Overview](./media/dataspace.png)
 
+
 ## Data sovereignty
 
 * Data Sovereignty is a continuum
@@ -59,7 +62,9 @@ It is the g
 
 > Note: add a new perspective for Data Value Creation to the RAM (4.4) and try to fill it with content. Could be in the end an appendix.
 
+
 > **Important Note**:
 >
 > Please provide links to files in the RAM, which are a good point to continue from here.
 >
+-->
