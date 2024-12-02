@@ -73,7 +73,7 @@ to achieve the autonomy and agency of the Data Space participants.
 
 ## References
 
-* Learn more about business models in the business model paper
-* Learn more about interoperability facets in [IS 19941]
-* Learn more about interoperability in Data Spaces in the Dataspace Protocol
-* Learn more about dataspaces in [20151]
+* Learn more about Data Space business models in the [Data Spaces Business Models paper of IDSA](https://internationaldataspaces.org/download/49662/?tmstv=1732901716)
+* Learn more about interoperability facets in [ISO/IEC 19941:2017 Information technology — Cloud computing — Interoperability and portability](https://www.iso.org/standard/66639.html)
+* Learn more about interoperability in Data Spaces in the [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/)
+* Learn more about dataspaces in [ISO/IEC CD 20151 Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics](https://www.iso.org/standard/86589.html)
