@@ -19,6 +19,7 @@
 * [Front Matter](./FrontMatter.md)
 * [Introduction](./README.md)
 * [Foundational Aspects](./3_layers/3_1_foundation/foundation.md)
+* [Trust Perspective](./4_perspectives/4_1_trust/trust.perspective.md)
 
 ## Editorial overview
 
@@ -75,7 +76,7 @@ The previous release version of IDS-RAM:
 The following documents that complement the RAM:
 - [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) describes how to operate a dataspace based on the BLOFT (Business, Legal, Operational, Functional, Technical) aspects.
 - [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme) is a set of specifications designed to facilitate interoperable data sharing between entities governed by usage control and based on Web technologies. 
-- [DSSC Blueprint](https://dssc.eu/space/bv15e/766061351/Introduction+-+Key+Concepts+of+Data+Spaces) is a set of guidelines by the [Dataspaces support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
+- [DSSC Blueprint](https://dssc.eu/space/bv15e/766061351/Introduction+-+Key+Concepts+of+Data+Spaces) is a set of guidelines by the [Data Spaces Support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
 
 <!--## Foundational aspects
 
