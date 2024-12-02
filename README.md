@@ -16,13 +16,13 @@ This repository will be used to create the new version of IDS RAM.
 
 #### _Figure 1.1: Improvements envisioned for IDS RAM 5 at a high-level_####
 
-RAM 5 will be aligned with the latest developments in IDSA and Data Spaces. It will provide an overview for technical readers on how to create an architecture for a data space, to participate in a data space, and to provide value added services for data spaces. To do so, RAM5 will sketch architectural decision areas for different roles in data spaces. 
+RAM 5 will be aligned with the latest developments in IDSA and Data Spaces. It will provide an overview for technical readers on how to create an architecture for a data space, participate in a data space, and provide value-added services for data spaces. To do so, RAM5 will sketch architectural decision areas for different roles in data spaces. 
 
-The RAM 5 document will not be a linear document like RAM 4 but will contain links between parts of the layers and perspectives. Other improvements in RAM 5 will include description of decentralized approaches and updates to the information model, among other things.
+The RAM 5 document will not be a linear document like RAM 4 but will contain links between parts of the layers and perspectives. Other improvements in RAM 5 will include a description of decentralized approaches and updates to the information model, among other things.
 
 ## Timeline ##
 
-The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025.
+The expected timeline is to provide a first working draft of RAM 5 by the end of Quarter 4 2024 and a final document by the end of Quarter 2 2025.
 
 ![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
 
@@ -34,7 +34,7 @@ Please see the [RAM 5 Project outline document](./resources/RAM5_project_outline
 
 RAM 5 will follow the same five-layer structure used by RAM 4.0 to express various stakeholders’ concerns and viewpoints at different levels of granularity: business, functional, process, information, and system.
 
-This will be complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
+This will be complemented by three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification, and Governance.
 
  ![Structure of IDS RAM](./documentation/media/RAM5_structure.png)
 
@@ -70,7 +70,7 @@ This results in the following structure for this repository:
 3 Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
 and [pull requests](https://github.com/International-Data-Spaces-Association/RAM5/pulls).
 
-4 Let us know you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
+4 Let us know if you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
 
 5 Please also consider the following:
 
@@ -83,18 +83,14 @@ and [pull requests](https://github.com/International-Data-Spaces-Association/RAM
 
 - Join the **RAM 5 Touch-point calls** bi-weekly on Mondays at 10 CEST: This is the sync point for contributors and maintainers.
 
-- Participate in **RAM 5 workshops** organized on specific topics such as Trust, Observability, Interoperability, etc. See this [page](https://github.com/International-Data-Spaces-Association/RAM5/discussions/49) for details on the upcoming workshops.
-
-- Attend the **Working Group Architecture quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 among other assets of the working group is discussed and the work completed in each quarter gets reviewed/approved by the WG members.
-
-All details for the upcoming meetings and past events are available here: [Meetings for RAM 5 and Working Group Architecture](https://github.com/International-Data-Spaces-Association/RAM5/discussions/49)
+- Attend the **[Working Group Architecture](https://github.com/International-Data-Spaces-Association/members-area/tree/main/WorkingGroups/Architecture) quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 among other assets of the working group is discussed and the work completed in each quarter gets reviewed/approved by the WG members
 
 ## Further resources ##
 
 To have more context, you can take a look at:
 
 - The current release version: [IDS RAM 4.0](https://docs.internationaldataspaces.org/ids-knowledgebase/v/ids-ram-4) 
-- A webinar which provides a high-level overview of RAM 4.0: [IDSA TechTalk Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
+- A webinar that provides a high-level overview of RAM 4.0: [IDSA TechTalk Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
 
 The IDS RAM contains the conceptual level framework for dataspaces including technology-agnostic specifications. You may want to get familiar with the following documents that complement the RAM:
 
