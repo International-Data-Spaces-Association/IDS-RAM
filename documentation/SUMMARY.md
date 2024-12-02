@@ -18,7 +18,9 @@
 * [Process Layer](./3_layers/3_5_processes/processes.md)
 * [System Layer](./3_layers/3_6_systems/systems.md)
 * [Perspectives of the RAM](./4_perspectives/README.md)
-* [Trust Perspective](./4_perspectives/4_1_trust/README.md)
+-->
+* [Trust Perspective](./4_perspectives/4_1_trust/trust.perspective.md)
+<!--
 * [Certification Perspective](./4_perspectives/4_2_certification/README.md)
 * [Data Governance](./4_perspectives/4_3_data_governance/README.md)
 * [Appendix](./appendix/README.md)
