@@ -1,6 +1,5 @@
 # Summary
 
-
 * [README](./README.md)
   
 ## FRONT MATTER
@@ -8,7 +7,9 @@
 
 ## IDS RAM 5
 
-<!-- * [Introduction](./1_Introduction.md)-->
+* [Goals of the International Data Spaces](./1_introduction/Goals_of_the_International_Data_Spaces.md)
+* [Purpose of and structure of the IDS RAM](./Purpose_and_Structure_of_the_document.md)
+* [Relationship to other documents](./Relation_to_other_assets.md)
 <!-- * [Context of the RAM](./2_context/README.md)-->
 * [Foundational aspects of the RAM](./3_layers/3_1_foundation/foundation.md)
 <!-- * [Layers of the RAM](./3_layers/README.md)
@@ -22,6 +23,6 @@
 * [Trust Perspective](./4_perspectives/4_1_trust/trust.perspective.md)
 <!--
 * [Certification Perspective](./4_perspectives/4_2_certification/README.md)
-* [Data Governance](./4_perspectives/4_3_data_governance/README.md)
+* [Data Governance](./4_perspectives/4_3_data_governance/README.md) -->
 * [Appendix](./appendix/README.md)
-* [Appendix - Styleguide](./appendix/styleguide.md) -->
+* [Appendix - Styleguide](./appendix/styleguide.md)
