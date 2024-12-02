@@ -4,23 +4,28 @@
 
 As Trust is a key aspect of Data Spaces, the Trust Perspective needs to describe clearly how existing mechanisms can be utilized to serve the needs of Data Spaces. This includes security measures for providing secure platforms and secure communications but also utilizing Usage Control mechanisms and their relation to privacy-enhancing and privacy-preserving technologies (PET, PPT).
 
-This section is based on the defintions of the [IDSA Rulebook]() and the [foundation section of the IDS RAM](../../3_layers/3_1_foundation/foundation.md).
+This section is based on the definitions of the [IDSA Rulebook]() and the [foundation section of the IDS RAM](../../3_layers/3_1_foundation/foundation.md).
 
 ## Objectives
 
-No hanging paragraphs
+The Trust perspective covers the various aspects of establishing a trusted relationship between Data Space Participants. The perspective covers 
+
+- trust related actors in a data space
+- the relationship to trust frameworks
+- the need for interoperability
+- the aspect of policies for data, data access, data usage and trustworthiness in data spaces
 
 ### Definition of Actors
 
 The IDS Reference Architecture Model describes the interaction between participants in a trusted context, i.e. a Data Space. The Trust Perspective of the IDS RAM shall provide insights into how Trust is established between the participants. As Trust is a decision of a participant to trust another participant in each context, the IDS-RAM can only describe mechanisms that can make a participant trustworthy, i.e. which claims can be provided. This is the foundation for the decision of a participant to trust another participant.
 
-In general, three different actors can be distinguished in when discussing trust relationships in Data Spaces:
+In general, three different actors can be distinguished when discussing trust relationships in Data Spaces:
 
 - Organizations
 - Individuals
 - Services, i.e. Data Space Connectors
 
-The three of them have a clear relationship with each other. Individuals and Services act on behalf of an organization. In the context of the IDS-RAM organizations and Services are relevant for the Trust perspective. The trustworthiness of individuals and their relationship to the IDS-RAM are not in scope of the IDS-RAM. The interaction of individuals within a given system is sufficiently described in other standards. 
+The three of them have a clear relationship with each other. Individuals and Services act on behalf of an organization. In the context of the IDS-RAM organizations and Services are relevant for the Trust perspective. The trustworthiness of individuals and their relationship to the IDS-RAM are not in the scope of the IDS-RAM. The interaction of individuals within a given system is sufficiently described in other standards. 
 
 ![Trust-related actors in a Data Space](./media/Trust_actors.png)
 
@@ -30,7 +35,7 @@ Both, Connectors and organizations need to provide attribute-based claims descri
 
 A participant in a Data Space, the verifier, needs to decide whether another participant in the Data Space, the holder, can be trusted in each context or not. To enable this decision the Holder may present several claims to the verifier. Those claims are issued by the Issuer of the claim, who followed the defined processes and rules to issue a claim to the holder. A verifier can request the issuer to validate a claim. The Triangle of Trust can be realized based on Verifiable Credentials and their presentation.
 
-The holder of a verifiable credential operates in a triangle of trust, mediating between issuer and verifier.
+The holder of a verifiable credential operates in a triangle of trust, mediating between the issuer and the verifier.
 
 - The issuer trusts the holder
 - The holder trusts the verifier
@@ -45,7 +50,7 @@ The IDS Reference Architecture model is agnostic of a given trust framework.  Th
 A trust framework in the context of data spaces is a structured set of policies, standards, and agreements that establish the rules and requirements for ensuring secure, reliable, and ethical data exchange. It defines how organizations should manage, protect, and share data while maintaining mutual trust with the following key elements:
 
 - Identity and Authentication: Establishes how parties in the data-sharing ecosystem verify each other's identity and credentials to ensure they are authorized to access and share data.
-- Data Privacy and Security: Sets standards for protecting sensitive information, ensuring that all parties handle data in compliance with privacy laws (e.g., GDPR) and follow robust security protocols.
+- Data Privacy and Security: Set standards for protecting sensitive information, ensuring that all parties handle data in compliance with privacy laws (e.g., GDPR) and follow robust security protocols.
 - Governance and Accountability: Outlines the roles, responsibilities, and accountability of each participating organization, ensuring transparency and legal compliance in data handling.
 - Interoperability Standards: Defines the technical protocols and data formats for ensuring systems from different organizations can communicate and share data seamlessly.
 - Trust Mechanisms: Includes mechanisms like digital signatures, encryption, and certificates to ensure data integrity and prevent unauthorized access during sharing.
@@ -69,21 +74,27 @@ Key Points of ISO/IEC 19941 and Interoperability in the Triangle of Trust:
 - Common Interfaces: ISO/IEC 19941 defines how different cloud services should expose common interfaces to enable seamless communication and data exchange, which ensures interoperability.
 - Portability of Data: The ability to share data between Data Space participants ensures that security and trust are maintained, preserving the integrity of the Triangle of Trust.
 - Security Considerations: ISO/IEC 19941 emphasizes that interoperability and portability should not come at the cost of security, aligning with the need for trusted and secure communication within the Triangle of Trust.
+
 In summary, interoperability in the Triangle of Trust is vital because it ensures systems can securely work together, sharing data and services while maintaining trust. ISO/IEC 19941 directly supports this by providing guidelines for interoperability and portability in cloud environments, ensuring that the trust and security pillars of the Triangle of Trust remain intact when systems communicate or migrate across different platforms.
-The IDS RAM needs to cover the interfaces and security considerations, but also need to cover the data portability when it comes to claims, i.e. semantic and syntactic interoperability.
+The IDS RAM needs to cover the interfaces and security considerations, but also needs to cover the data portability when it comes to claims, i.e. semantic and syntactic interoperability.
 
 ## Security considerations
 
-Provide an overview of security considerations. Describe aspects to be considered, not recommendations.
-<https://link.springer.com/chapter/10.1007/978-3-031-16088-2_10>
+Security considerations need to be taken into account by each data space participant and by data space governance authorities. Further details will be provided in future versions. 
+
+### Related work
+
+* [UCON+: Comprehensive Model, Architecture and Implementation for Usage Control and Continuous Authorization](https://link.springer.com/chapter/10.1007/978-3-031-16088-2_10)
 
 ## Access and Usage Policies
 
-Relationship between the different types of Policies (see Rulebook) and runtime aspects of policy enforcement.
-Usage Control
+The relationship between the different types of Policies (see IDSA Rulebook) and runtime aspects for policy enforcement will be subject to future versions. This may include:
 
+- General approach to Usage Control
 - Describe the mechanisms of usage control
 - Policy classes
 - Relationship to implementations
-- Take a look at <https://authzen-interop.net/docs/category/results> <https://openid.net/wg/authzen/>
-- <https://www.researchgate.net/publication/342252961_Evaluation_Methodology_for_Distributed_Data_Usage_Control_Solutions>
+
+## Related work
+
+- [Usage Control in IDS](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Usage-Control-in-the-IDS-V3..pdf)
