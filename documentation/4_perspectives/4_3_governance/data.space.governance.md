@@ -1,7 +1,6 @@
-# Data governance perspective
-
+# Data Space Governance
 >
-> This document is written in Mardown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
+> This document is written in Markdown, to get started check the [basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 >
 
 > **Important Note**:
