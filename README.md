@@ -16,13 +16,13 @@ This repository will be used to create the new version of IDS RAM.
 
 #### _Figure 1.1: Improvements envisioned for IDS RAM 5 at a high-level_####
 
-RAM 5 will be aligned with the latest developments in IDSA and Data Spaces. It will provide an overview for technical readers on how to create an architecture for a data space, to participate in a data space, and to provide value added services for data spaces. To do so, RAM5 will sketch architectural decision areas for different roles in data spaces. 
+RAM 5 will be aligned with the latest developments in IDSA and Data Spaces. It will provide an overview for technical readers on how to create an architecture for a data space, participate in a data space, and provide value-added services for data spaces. To do so, RAM5 will sketch architectural decision areas for different roles in data spaces. 
 
-The RAM 5 document will not be a linear document like RAM 4 but will contain links between parts of the layers and perspectives. Other improvements in RAM 5 will include description of decentralized approaches and updates to the information model, among other things.
+The RAM 5 document will not be a linear document like RAM 4 but will contain links between parts of the layers and perspectives. Other improvements in RAM 5 will include a description of decentralized approaches and updates to the information model, among other things.
 
 ## Timeline ##
 
-The expected timeline is to provide a first draft of RAM 5 until the end of Quarter 2 2024 and a final document until the end of Quarter 2 2025.
+The expected timeline is to provide a first working draft of RAM 5 by the end of Quarter 4 2024 and a final document by the end of Quarter 2 2025.
 
 ![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
 
@@ -34,7 +34,7 @@ Please see the [RAM 5 Project outline document](./resources/RAM5_project_outline
 
 RAM 5 will follow the same five-layer structure used by RAM 4.0 to express various stakeholders’ concerns and viewpoints at different levels of granularity: business, functional, process, information, and system.
 
-This will be complemented with three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification and Governance.
+This will be complemented by three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification, and Governance.
 
  ![Structure of IDS RAM](./documentation/media/RAM5_structure.png)
 
@@ -70,7 +70,7 @@ This results in the following structure for this repository:
 3 Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
 and [pull requests](https://github.com/International-Data-Spaces-Association/RAM5/pulls).
 
-4 Let us know you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
+4 Let us know if you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
 
 5 Please also consider the following:
 
