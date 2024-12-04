@@ -8,8 +8,8 @@
 ## IDS RAM 5
 
 * [Goals of the International Data Spaces](./1_introduction/Goals_of_the_International_Data_Spaces.md)
-* [Purpose of and structure of the IDS RAM](./Purpose_and_Structure_of_the_document.md)
-* [Relationship to other documents](./Relation_to_other_assets.md)
+* [Purpose of and structure of the IDS RAM](./1_introduction/Purpose_and_Structure_of_the_document.md)
+* [Relationship to other documents](./1_introduction/Relation_to_other_assets.md)
 <!-- * [Context of the RAM](./2_context/README.md)-->
 * [Foundational aspects of the RAM](./3_layers/3_1_foundation/foundation.md)
 <!-- * [Layers of the RAM](./3_layers/README.md)
