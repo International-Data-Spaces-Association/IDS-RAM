@@ -29,7 +29,19 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Authors and Contributors ##
 
-* Ilknur Chulani -IDSA
+* Ilknur Chulani - IDSA
 * Peter Koen - Microsoft
 * Gerd Brost - Fraunhofer AISEC
+* Gabriele Bozzi - IMEC
+* Daniel Hommen - Orbiter
+* Maximilian Schönenberg - Orbiter
+* Rajiv Rajani - iSHARE
+* Bithin Alangot - Huawei
+* Theo Dimitrakos - Huawei
+* Jorge Rubio Perez - NTT Data
+* Jared Wayne York - NTT Data
+* Silvia Castellvi - IDSA
+* Gonzalo Gil - Tekniker
+* Shane O'Seasnáin - Eindhoven University of Technology
+* Harm Jan Arendshorst - iLabs Technologies
 *  ...
