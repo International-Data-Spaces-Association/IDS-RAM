@@ -57,9 +57,9 @@ This results in the following structure for this repository:
   - [Section 3.5: Process Layer](./documentation/3_layers/3_5_process/process.md)
   - [Section 3.6: System Layer](./documentation/3_layers/3_6_system/system.md)
 - [Section 4: Perspectives of the RAM](./documentation/4_perspectives/README.md)
-  - [Section 4.1: Trust Perspective](./documentation/4_perspectives/4_1_trust/README.md)
+  - [Section 4.1: Trust Perspective](./documentation/4_perspectives/4_1_trust/trust.perspective.md)
   - [Section 4.2: Certification Perspective](./documentation/4_perspectives/4_2_certification/README.md)
-  - [Section 4.3: Governance Perspective](./documentation/4_perspectives/4_3_data_governance/README.md)
+  - [Section 4.3: Governance Perspective](./documentation/4_perspectives/4_3_governance/governance.md)
 
 ## How to contribute ##
 
