@@ -46,16 +46,16 @@ The [Trust Perspective](../../4_perspectives/4_1_trust/trust.perspective.md) ela
 
 Data Sharing between organizations in a trusted way is a key motivation for Data Spaces. This requires Interoperability on various levels, e.g. Interoperability between organizations allows to “exchange information and to mutually use the information that has been exchanged” (See ISO/IEC 22123-1).
 
-The interoperability facet model as defined in ISO/IEC 19941 breaks interoperability into five facets, which apply to Data Spaces and are the foundation for trusted data sharing between organizations.
-The European Interoperability Framework describes a similar mechanism, but utilizing four layers. A detailed comparison is part of the [IDSA Rulebook section on Interoperability]().
+The interoperability facet model as defined in [ISO/IEC 19941](https://www.iso.org/standard/66639.html) breaks interoperability into five facets, which apply to Data Spaces and are the foundation for trusted data sharing between organizations.
+The European Interoperability Framework describes a similar mechanism, but utilizing four layers. A detailed comparison is part of the [IDSA Rulebook section on Interoperability](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/3_interoperability).
 
 The IDS-RAM information layer provides an overview of aspects of semantic interoperability. The systems layer describes in more detail the technical interoperability aspects and the process layer describes in more detail the behavioral aspects.
 
-To do: see also semantic paper
+See also [IDSA paper on semantic interoperability in data spaces](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Semantic-Interoperability-in-Data-Spaces-1.pdf)
 
 ## Data Value Creation
 
-Data Value Creation can be achieved with various means. It is not limited to data marketplaces, but can also include increased transparency in supply chains, digital twins, and beyond. Such aspects depend on industry, domain, use cases, and business models. The value creation is therefore not subject to the IDS RAM. Further reading on Business Models for and in Data Spaces can be found in the [IDSA document on Data Space Business Models]().
+Data Value Creation can be achieved with various means. It is not limited to data marketplaces, but can also include increased transparency in supply chains, digital twins, and beyond. Such aspects depend on industry, domain, use cases, and business models. The value creation is therefore not subject to the IDS RAM. Further reading on Business Models for and in Data Spaces can be found in the [IDSA document on Data Space Business Models](https://internationaldataspaces.org/download/49662/?tmstv=1732901716).
 
 ## Summary
 
@@ -75,5 +75,6 @@ to achieve the autonomy and agency of the Data Space participants.
 
 * Learn more about Data Space business models in the [Data Spaces Business Models paper of IDSA](https://internationaldataspaces.org/download/49662/?tmstv=1732901716)
 * Learn more about interoperability facets in [ISO/IEC 19941:2017 Information technology — Cloud computing — Interoperability and portability](https://www.iso.org/standard/66639.html)
-* Learn more about interoperability in Data Spaces in the [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/)
+* Learn more about interoperability in Data Spaces in [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/) and [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/3_interoperability)
+* Learn more about semantic interoperability in Data Spaces in [Semantic interoperability paper of IDSA](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Semantic-Interoperability-in-Data-Spaces-1.pdf)
 * Learn more about dataspaces in [ISO/IEC CD 20151 Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics](https://www.iso.org/standard/86589.html)
