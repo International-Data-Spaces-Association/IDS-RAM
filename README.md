@@ -96,7 +96,7 @@ The IDS RAM contains the conceptual level framework for dataspaces including tec
 
 - [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) describes how to operate a dataspace based on the BLOFT (Business, Legal, Operational, Functional, Technical) aspects.
 - [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme) is a set of specifications designed to facilitate interoperable data sharing between entities governed by usage control and based on Web technologies. 
-- [DSSC Blueprint](https://dssc.eu/space/BVE/357073006/Data+Spaces+Blueprint+v1.0) is a set of guidelines by the [Dataspaces support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
+- [DSSC Blueprint](https://dssc.eu/space/BVE/357073006/Data+Spaces+Blueprint+v1.0) is a set of guidelines by the [Data Spaces Support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
  <!-- - [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) contains specific details on specifications, e.g. APIs and their descriptions. -->
 
 ## Previous Versions ##
