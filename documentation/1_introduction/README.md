@@ -22,7 +22,7 @@ Central to the RAM are specifications such as the __Dataspace Protocol (DSP)__ a
 DCP)__. These protocols define how components communicate, how identities are exchanged and verified, and how
 policy-conformant data discovery and transfer is achieved. The RAM highlights these specifications, covering components,
 message formats, interaction sequences, and binding details. Further, it describes in depth how they are integrated with
-key capabilities like identity management, observability, data discovery, contract negotiation and secure data transfer.
+key capabilities like identity management, observability, data discovery, contract negotiation and secure data transfer. Details of such capabilities are maintained within dedicated documents under the purview of IDSA. The IDSA RAM document integrate and connect these documents to provide a comprehensive overview and a single source of truth for architecture models according to IDSA specifications.
 
 To support real-world applicability, the RAM organizes its content into two major sections:
 
