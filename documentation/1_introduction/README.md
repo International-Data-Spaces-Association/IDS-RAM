@@ -6,7 +6,7 @@ foundational Rulebook that defines the core principles, roles, and capabilities 
 environments. However, turning these high-level principles into actionable, technical guidance requires a dedicated
 architectural framework. __This is the purpose of the Reference Architecture Model (RAM)__.
 
-The RAM is the central technical document that operationalizes the concepts defined in the IDSA Rulebook. It maps
+The RAM is the central compendium of technical documents that operationalizes the concepts defined in the IDSA Rulebook. It maps
 abstract governance models, data usage policies, and protocol specifications into concrete technical (logical)
 components, interfaces, and behavioral patterns. It does so with a clear focus: enabling interoperability, scalability,
 and conformance without prescribing a single implementation path. In other words, the RAM is not a blueprint but a
@@ -45,8 +45,8 @@ vendor product. Where useful, illustrative code snippets and configuration examp
 concepts and show practical realizations. For this, available open source projects (such as those maintained under the
 Eclipse Dataspace Working Group (EDWG) initiative) are referenced.
 
-Importantly, the RAM is a _living_ document. Rather than locking into static version cycles, it evolves incrementally.
-Changes are managed through GitHub, with full traceability of modifications and clear visibility into the rationale
-behind decisions. Periodic release tags provide stable points of reference, allowing contributors and adopters to align
+Importantly, the RAM is a _living_ document due to continuous updates of IDSA technical documents this document refers to. Therefore, rather than locking into static version cycles, it evolves incrementally with latest releases of technical documents.
+Changes of these documents are managed through the corresponding GitHub repositories, with full traceability of modifications and clear visibility into the rationale
+behind decisions. Periodic release tags of the RAM document however will provide stable points of reference, allowing contributors and adopters to align
 their work with a consistent snapshot of the evolving model.
 
