@@ -1,114 +1,51 @@
-# IDS RAM5 #
+# Introduction
 
-Welcome to the IDS RAM 5 repository of the [IDSA](../../../idsa), the working repository to create a new version of IDS-RAM with a new and modular approach.
+The emergence of dataspaces as a key enabler for trustworthy data sharing has introduced a new class of data
+architecture principles. Within this landscape, the __International Data Spaces Association (IDSA)__ provides a
+foundational Rulebook that defines the core principles, roles, and capabilities required to establish and operate such
+environments. However, turning these high-level principles into actionable, technical guidance requires a dedicated
+architectural framework. __This is the purpose of the Reference Architecture Model (RAM)__.
 
-## Overview ##
+The RAM is the central compendium of technical documents that operationalizes the concepts defined in the IDSA Rulebook. It maps
+abstract governance models, data usage policies, and protocol specifications into concrete technical (logical)
+components, interfaces, and behavioral patterns. It does so with a clear focus: enabling interoperability, scalability,
+and conformance without prescribing a single implementation path. In other words, the RAM is not a blueprint but a
+design space—a structured but flexible guide that supports diverse requirements while preserving the integrity of the
+IDSA dataspace model.
 
-The IDS-RAM (International Data Spaces Reference Architecture Model) provides a conceptual framework for designing and implementing IDS-compliant data spaces. It defines the key roles, their interactions, the components, and the principles that govern the architecture of an IDS data space.
+This document is for system architects, software engineers, and infrastructure designers who are tasked with building or
+integrating components within a dataspace to enable business-driven data ecosystems. If you’re looking to understand
+what makes a connector IDSA-compliant, how to build interoperable and integrable services, or how to maintain trust and
+policies in a decentralized environment—this is your technical guidance.
 
-An IDSA Techtalk webinar provides an overview of the current release version IDS RAM 4.0: [Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
+Central to the RAM are specifications such as the __Dataspace Protocol (DSP)__ and the __Decentralized Claims Protocol (
+DCP)__. These protocols define how components communicate, how identities are exchanged and verified, and how
+policy-conformant data discovery and transfer is achieved. The RAM highlights these specifications, covering components,
+message formats, interaction sequences, and binding details. Further, it describes in depth how they are integrated with
+key capabilities like identity management, observability, data discovery, contract negotiation and secure data transfer. Details of such capabilities are maintained within dedicated documents under the purview of IDSA. The IDSA RAM document integrate and connect these documents to provide a comprehensive overview and a single source of truth for architecture models according to IDSA specifications.
 
-This repository will be used to create the new version of IDS RAM.
+To support real-world applicability, the RAM organizes its content into two major sections:
 
-## Vision for IDS-RAM 5 ##
+__Capability Mapping:__ This section lists the essential capabilities enabled through dataspaces—such as data discovery,
+policy enforcement, usage control, identity resolution, and observability. Each capability is analyzed from a technical
+perspective, detailing how it can be implemented within a compliant dataspace. The descriptions are aligned with the
+IDSA Rulebook and maintains references to the foundational concepts to highlight the strong relation between the two
+documents. The RAM content is however grounded in system-level detail, interactions pattern, documents expected
+behavior, and provides guidance on integration patterns of infrastructure and other technologies.
 
- ![New version of IDS RAM](./documentation/media/RAM5_vision.png)
+__Architectural Best Practices:__ Recognizing the diversity of business and technical requirements across domains, the
+RAM does not enforce a singular architecture. Instead, it presents validated patterns and warns against known
+anti-patterns, guiding implementers through the architectural decisions while setting up or operating a dataspace.
+Whether the goal is to create a lightweight edge connector, operate a multi-tenant marketplace, or integrate with
+existing enterprise systems, the RAM aims on outlining the architectural considerations and trade-offs—while maintaining
+compatibility with the IDSA model.
 
-#### _Figure 1.1: Improvements envisioned for IDS RAM 5 at a high-level_####
+The RAM is intentionally neutral with respect to implementations. It refrains from endorsing any specific codebase or
+vendor product. Where useful, illustrative code snippets and configuration examples are included to clarify complex
+concepts and show practical realizations. For this, available open source projects (such as those maintained under the
+Eclipse Dataspace Working Group (EDWG) initiative) are referenced.
 
-RAM 5 will be aligned with the latest developments in IDSA and Data Spaces. It will provide an overview for technical readers on how to create an architecture for a data space, participate in a data space, and provide value-added services for data spaces. To do so, RAM5 will sketch architectural decision areas for different roles in data spaces. 
-
-The RAM 5 document will not be a linear document like RAM 4 but will contain links between parts of the layers and perspectives. Other improvements in RAM 5 will include a description of decentralized approaches and updates to the information model, among other things.
-
-## Timeline ##
-
-The expected timeline is to provide a first working draft of RAM 5 by the end of Quarter 4 2024 and a final document by the end of Quarter 2 2025.
-
-![Timeline for RAM 5](./documentation/media/RAM5_timeline.png)
-
-#### _Figure 1.2: Proposed timeline for the IDS RAM 5_####
-
-Please see the [RAM 5 Project outline document](./resources/RAM5_project_outline.docx) for more details on the activities planned for each quarterly milestone.
-
-## Structure ##
-
-RAM 5 will follow the same five-layer structure used by RAM 4.0 to express various stakeholders’ concerns and viewpoints at different levels of granularity: business, functional, process, information, and system.
-
-This will be complemented by three perspectives that need to be implemented across all these layers: Trust (previously named Security in RAM 4.0), Certification, and Governance.
-
- ![Structure of IDS RAM](./documentation/media/RAM5_structure.png)
-
-#### _Figure 1.3: Layers and Perspectives of IDS RAM_####
-
-Each of these layers and perspectives will be described in a different section of this document. Two additional sections will be added to provide additional context for the readers:
-
-- Foundation section, which will present all the concepts that one should be familiar with before delving into the details of the RAM layers and perspectives.
-- Context of IDS section, to provide overall info on IDS, and how it relates to other initiatives and concepts.
-
-This results in the following structure for this repository:
-<!-- to be added in when we have this // - [Front Matter](./documentation/FrontMatter.md) -->
-- [Section 1: Introduction](./documentation/1_introduction/README.md)
-- [Section 2: Context of IDS](./documentation/2_context/README.md)
-- [Section 3: Layers of the RAM](./documentation/3_layers/README.md)
-  - [Section 3.1: Foundation](./documentation/3_layers/3_1_foundation/foundation.md)
-  - [Section 3.2: Business Layer](./documentation/3_layers/3_2_business/business.md)
-  - [Section 3.3: Functional Layer](./documentation/3_layers/3_3_functional/functional.md)
-  - [Section 3.4: Information Layer](./documentation/3_layers/3_4_information/information.md)
-  - [Section 3.5: Process Layer](./documentation/3_layers/3_5_process/process.md)
-  - [Section 3.6: System Layer](./documentation/3_layers/3_6_system/system.md)
-- [Section 4: Perspectives of the RAM](./documentation/4_perspectives/README.md)
-  - [Section 4.1: Trust Perspective](./documentation/4_perspectives/4_1_trust/trust.perspective.md)
-  - [Section 4.2: Certification Perspective](./documentation/4_perspectives/4_2_certification/README.md)
-  - [Section 4.3: Governance Perspective](./documentation/4_perspectives/4_3_governance/governance.md)
-
-## How to contribute ##
-
-1 Start by getting some context by looking at [this PPT for onboarding](https://digitalhubeu.sharepoint.com/:p:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/Towards%20RAM5.pptx?d=w9e877a51db53436e9181a01d53d92b6e&csf=1&web=1&e=fvGRSY).
-
-2 Take a look at the [RAM 5 Project outline document](https://digitalhubeu.sharepoint.com/:w:/r/sites/IDSAWorkingGroupArchitecture/Freigegebene%20Dokumente/General/RAM%205/Overall_info/RAM%205%20project%20outline.docx?d=w57366d114bc44bd9a6ab2e0b7f3858c7&csf=1&web=1&e=PY2bi4) or the [RAM 5 Project board](https://github.com/orgs/International-Data-Spaces-Association/projects/11/views/5) for an overall view of the RAM 5 activities.
-
-3 Check the open [issues](https://github.com/International-Data-Spaces-Association/RAM5/issues)
-and [pull requests](https://github.com/International-Data-Spaces-Association/RAM5/pulls).
-
-4 Let us know if you would like to contribute via [email](mailto:ilknur.chulani@internationaldataspaces.org) or by joining the RAM 5 Touchpoint calls.
-
-5 Please also consider the following:
-
-- [Code of Conduct](./CODE_OF_CONDUCT.md),
-- [Contributing Guidelines](./CONTRIBUTING.md),
-- [License](./LICENSE.md),
-- [Changelog](./CHANGELOG.md)
-
-## How to connect with others working on RAM 5 ##
-
-- Join the **RAM 5 Touch-point calls** bi-weekly on Mondays at 10 CEST: This is the sync point for contributors and maintainers.
-
-- Attend the **[Working Group Architecture](https://github.com/International-Data-Spaces-Association/members-area/tree/main/WorkingGroups/Architecture) quarterly meetings**: These are usually on-site events where the vision and next steps for RAM 5 among other assets of the working group is discussed and the work completed in each quarter gets reviewed/approved by the WG members
-
-## Further resources ##
-
-To have more context, you can take a look at:
-
-- The current release version: [IDS RAM 4.0](https://docs.internationaldataspaces.org/ids-knowledgebase/v/ids-ram-4) 
-- A webinar that provides a high-level overview of RAM 4.0: [IDSA TechTalk Recording](https://youtu.be/vyhGrT2pEOg) & [Slides](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Tech-Talk-IDS-RAM.pdf)
-
-The IDS RAM contains the conceptual level framework for dataspaces including technology-agnostic specifications. You may want to get familiar with the following documents that complement the RAM:
-
-- [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) describes how to operate a dataspace based on the BLOFT (Business, Legal, Operational, Functional, Technical) aspects.
-- [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme) is a set of specifications designed to facilitate interoperable data sharing between entities governed by usage control and based on Web technologies. 
-- [DSSC Blueprint](https://dssc.eu/space/BVE/357073006/Data+Spaces+Blueprint+v1.0) is a set of guidelines by the [Data Spaces Support Centre](https://dssc.eu/) to support the development cycle of data spaces. It includes the conceptual model of a data space, data space building blocks, and recommended standards and specifications.
- <!-- - [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) contains specific details on specifications, e.g. APIs and their descriptions. -->
-
-## Previous Versions ##
-
-IDS RAM 4
-
-- [IDS-RAM 4.2 current in Docs](https://docs.internationaldataspaces.org/ids-knowledgebase/v/ids-ram-4) and on [Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/)
-- [IDS-RAM 4.1](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/releases/tag/v.4.1.2)
-- [IDS-RAM 4.0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/releases/tag/v.4.0.0)
-
-Earlier versions
-
-- [IDS RAM 3.0](https://internationaldataspaces.org/download/16630/)
-- [IDS RAM 2.0](https://internationaldataspaces.org/download/16641/)
-- [IDS RAM 1.0](https://internationaldataspaces.org/download/16652/)
+Importantly, the RAM is a _living_ document due to continuous updates of IDSA technical documents this document refers to. Therefore, rather than locking into static version cycles, it evolves incrementally with latest releases of technical documents.
+Changes of these documents are managed through the corresponding GitHub repositories, with full traceability of modifications and clear visibility into the rationale
+behind decisions. Periodic release tags of the RAM document however will provide stable points of reference, allowing contributors and adopters to align
+their work with a consistent snapshot of the evolving model.
