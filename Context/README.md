@@ -21,13 +21,12 @@ Unlike detailed guidance documents, the Manifesto is deliberately high level. It
 
 ## Rulebook – From Principles into Practice
 
-Guided by the ideals of the Manifesto, the IDSA Rulebook translates vision into concrete requirements and governance models. It defines **“WHAT”** trusted dataspaces should be created and managed from organizational, legal, technical, and operational perspectives. Addressed to a broad audience—enterprises, public authorities, regulators, and technology providers—it establishes:
+Guided by the ideals of the Manifesto, the IDSA Rulebook answers **"WHAT"** needs to be done to translate vision into concrete requirements and governance models. It supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
 
-- Common governance principles to align stakeholders in a decentralized environment.
-- Introduction of logical components
-- Role definitions and responsibilities (e.g. Participant, Dataspace Governance Authority).
-- Mandatory vs. optional requirements, ensuring consistent implementation while allowing flexibility.
-- Compliance orientation related to international policies and regulations as well as globally applicable governance instruments (trust frameworks).
+- Common technical guidance, including functional requirements and specifications.
+- Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
+- Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
+- Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
 
 The Rulebook acts as the normative foundation of IDSA. It does not specify implementation technologies but clearly defines conditions for trust—usage control, contractual assurance, and transparent operations—thus linking data value creation with accountability.
 
