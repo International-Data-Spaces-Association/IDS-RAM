@@ -3,8 +3,8 @@ The International Data Spaces Association (IDSA) provides a comprehensive body o
 
 | Level | Document | Purpose |
 |-------|-------|-------|
-|Vision | Manifesto | Defines core principles and  motivation |
-| Governance | Rulebook | Establish requirements and roles |
+|Vision | [Manifesto of international Data Spaces](https://docs.internationaldataspaces.org/ids-knowledgebase/manifesto-for-international-dataspaces/) | Defines core principles and  motivation |
+| Governance | [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook/) | Establish requirements and roles |
 |Thematic guidance | Focus topics | Explore evolving topics in depth |
 | Technical Architecture | RAM | Enables implementations |
 
@@ -16,7 +16,7 @@ At the top of the IDSA document hierarchy stands the IDSA Manifesto, a concise y
 - Establishes guiding values: trust, fairness, interoperability, and sovereignty, which frame all other IDSA documents. 
 - Calls for collective action: encouraging industry, research, and policymakers to collaborate toward Trusted Data Sharing based on open standards and decentralized architectures.
 
-Unlike detailed guidance documents, the Manifesto is deliberately high level. It articulates “why” dataspaces matter and builds a shared identity and strategic direction for the IDSA community. All subsequent documents—including the Rulebook, Focus Topics, and the Reference Architecture Model (RAM)—are grounded in the principles laid out here.
+Unlike detailed guidance documents, the Manifesto is deliberately high-level. It articulates “why” dataspaces matter and builds a shared identity and strategic direction for the IDSA community. All subsequent documents—including the Rulebook, Focus Topics, and the Reference Architecture Model (RAM)—are grounded in the principles laid out here.
 
 
 ## Rulebook – From Principles into Practice
@@ -50,4 +50,4 @@ While previous documents define what to implement, the Reference Architecture Mo
 - Capabilities for identity, data discovery, policy enforcement, contract negotiation, and secure transfer. 
 - Integration patterns that support interoperability without imposing a single technology stack.
 
-The RAM is not prescriptive software architecture; it is a design framework that accommodates diverse implementation paths. It supports system architects and developers by connecting high-level requirements from the Rulebook with concrete deployment scenarios. Its two core sections—Capability Mapping and Architectural Best Practices—make it an indispensable engineering guide for building sovereign, trusted data ecosystems.
+The RAM is not a prescriptive software architecture; it is a design framework that accommodates diverse implementation paths. It supports system architects and developers by connecting high-level requirements from the Rulebook with concrete deployment scenarios. Its two core sections—Capability Mapping and Architectural Best Practices—make it an indispensable engineering guide for building sovereign, trusted data ecosystems.
