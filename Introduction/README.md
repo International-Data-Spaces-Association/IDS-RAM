@@ -5,7 +5,7 @@ architecture principles. Within this landscape, the __International Data Spaces 
 foundational Rulebook that defines the core principles, roles, and capabilities required to establish and operate such
 environments. However, turning these high-level principles into actionable, technical guidance requires a dedicated
 architectural framework. __This is the purpose of the Reference Architecture Model (RAM)__.
-
+ a CHNAGE 
 The RAM is the central compendium of technical documents that operationalizes the concepts defined in the IDSA Rulebook. It maps
 abstract governance models, data usage policies, and protocol specifications into concrete technical (logical)
 components, interfaces, and behavioral patterns. It does so with a clear focus: enabling interoperability, scalability,
