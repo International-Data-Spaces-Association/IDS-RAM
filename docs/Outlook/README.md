@@ -1,2 +1,22 @@
 # Outlook
-*Provide an outlook of currently discussed topics within the IDSA Architecture Working Group*
+IDSA Architecture Working Group has been looking at a wide range of topics in collaboration with other IDSA working groups such as the IDSA Rulebook. Some of the topics include but not limited to the following:
+
+- Main technical concepts, architectural principles and patterns for data spaces
+
+- Observability in data spaces
+  
+- Semantic interoperability in data spaces
+
+- Establishing trust in data spaces
+  
+- Usage control: Technical and organizational enforcement
+
+- Control planes vs data planes
+
+- Interoperability of governance across data spaces
+
+- AI and data spaces
+
+- Patterns for value added services
+
+Some of these topics are already planned for the upcoming relase of IDS-RAM, and some are items that would be considered in future roadmaps.
