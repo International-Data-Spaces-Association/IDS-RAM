@@ -51,7 +51,11 @@ behind decisions. Periodic release tags of the RAM document however will provide
 their work with a consistent snapshot of the evolving model.
 
 ## Contributions
-*Provide an overview on how to contribute to the document and how to get involved in the IDSA Architecture Working Group*
+The IDSA Working Group Architecure creates and maintains the IDS RAM. Its mission is to guide architects and software engineers in designing and developing trusted, interoperable, and compliant data spaces.
+
+To know more about the IDSA Working Group Architecture, please visit [our home page](https://internationaldataspaces.org/we/working-groups/). The [IDSA working groups brochure](https://internationaldataspaces.org/download/50753/?tmstv=1770728340) provides details on how to get involved and how to contribute.
+
+Please note: IDSA working group activities are reserved for members. Find more information about IDSA membership here: [Become a Member](https://internationaldataspaces.org/we/become-a-member/)
 
 ## Terminology
-*Provide a terminology in line with other IDSA (at best just link to one consistent)*
+IDS-RAM uses terms as defined in the [IDSA Glossary](external/glossary/glossary/). 
