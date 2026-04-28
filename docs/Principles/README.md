@@ -1,26 +1,28 @@
 # Architecture Principles
-*This chapter provides insight on the main technical concepts of dataspaces. It highlights the protocols DSP and DCP, their messages, state machines, sequences, and bindings*
+*This chapter provides architectural insights on the [main technical concepts of dataspaces](https://international-data-spaces-association.github.io/knowledge-base/dataspace/). It highlights the specifications [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol(DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/), their messages, state machines, sequences, and bindings.*
+
+*Please note the content on this page does not reflect the current developments yet, instead a preview of the upcoming release and an outline of what to expect is provided.*
 
 ## Cataloging
-*Provide insights on advertising data assets*
+*Insights on advertising data assets*
 
 ## Contract Negotiation
-*Provide insights on contract negotiation and agreements*
+*Insights on contract negotiation and agreements*
 
 ## Data Transfer
-*Provide insights on the actual data transfer within a dataspace*
+*Insights on the actual data transfer within a dataspace*
 
 ### Control Plane
-*Explain the responsibilities of the control plane via data transfer*
+*The responsibilities of the control plane via data transfer*
 
 ### Data Plane
-*Explain the responsibilities of the data plane via data transfer*
+*The responsibilities of the data plane via data transfer*
 
 ### Policy Enforcement
-*Explain the policy enforcement capabilities and shared responsibilities of dataspace and data management services*
+*The policy enforcement capabilities and shared responsibilities of dataspace and data management services*
 
 ## Observability
-*Link to the observability document, interpret from an architectural pov*
+*Observability concepts interpreted from an architectural point of view. Please refer to the [IDSA position paper Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023)*
 
 ## Credentials and Claims
-*Link to the identity document and the trust document, interpret from an architectural pov*
+*Credentials and Claims in data spaces interpreted from an architectural point of view. Please see the [working document on Identitifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces)*
