@@ -6,6 +6,8 @@
 
 *The new version aims to support interoperability, scalability, and conformance across different environments. Instead of prescribing a single approach, it will offer a structured design space that adapts to diverse needs while preserving the core IDSA data space model.*
 
+*The content in the next pages aim to give a preview of the upcoming IDS-RAM 2026-1 release.*  
+
 ## Join the IDS-RAM work
 *We are developing the next version of the Reference Architecture Model together with our community in the IDSA Working Group Architecture.*
 
