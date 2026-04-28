@@ -9,6 +9,8 @@ IDSA Architecture Working Group has been looking at a wide range of topics in co
 
 - Establishing trust in data spaces
   
+- Participant onboarding
+  
 - Usage control: Technical and organizational enforcement
 
 - Control planes vs data planes
