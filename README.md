@@ -11,7 +11,7 @@
 
 *The IDSA Architecture Working Group defines and promotes architectural principles and implementation patterns that are firmly grounded in the IDSA core concepts as described in the IDSA Rulebook. Its mission is to guide architects and software engineers in designing and developing trusted, interoperable, and compliant data spaces.*
 
-*To know more and join us please visit the [IDSA working groups page](https://internationaldataspaces.org/we/working-groups/) and [brochure](https://internationaldataspaces.org/download/50753/?tmstv=1770728340).*
+*To know more about the IDSA working groups please visit [our home page](https://internationaldataspaces.org/we/working-groups/) and see the [brochure](https://internationaldataspaces.org/download/50753/?tmstv=1770728340) for more details on how to onboard.*
 
 *Please note: IDSA working group activities are reserved for members. Is your organization not a member of IDSA? Find more information here: [Become a Member](https://internationaldataspaces.org/we/become-a-member/)*
 
