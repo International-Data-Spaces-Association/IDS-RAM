@@ -21,4 +21,4 @@ IDSA Architecture Working Group has been looking at a wide range of topics in co
 
 - Patterns for value added services
 
-Some of these topics are already planned for the upcoming relase of IDS-RAM, and some are items that would be considered in future roadmaps.
+Some of these items are already planned for the upcoming relase of IDS-RAM, while some would be considered in future roadmaps.
