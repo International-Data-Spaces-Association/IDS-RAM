@@ -15,7 +15,7 @@
 
 
 ## Catalogs
-*Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the [IDSA Rulebook page Cataloging]([external/rulebook/006_DSGA/](external/rulebook/120_DataDiscoveryServices.md)*
+*Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the [IDSA Rulebook page Cataloging](external/rulebook/120_DataDiscoveryServices.md)*
 
 ### Federated or Central (Marketplace)
 *Insights on federated or central catalogs and corresponding trade-offs*
