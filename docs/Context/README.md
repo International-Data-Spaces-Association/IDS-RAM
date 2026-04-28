@@ -8,7 +8,7 @@ The International Data Spaces Association (IDSA) provides a comprehensive body o
 |Thematic guidance | [IDSA Papers on Focus topics](external/ram/FocusTopics.md) | Explore evolving topics in depth |
 | Technical Architecture | [IDS RAM](external/ram/README.md) | Enables implementations |
 
-## Manifesto of data spaces – The IDSA North Star
+## Manifesto of Data Spaces – The IDSA North Star
 
 At the top of the IDSA document hierarchy stands the IDSA Manifesto, a concise yet powerful declaration of purpose. It describes IDSA’s ambition to shape a trusted global data economy founded on sovereignty, trust, and interoperability. The Manifesto serves three essential functions:
 
