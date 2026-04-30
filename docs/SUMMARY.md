@@ -2,7 +2,7 @@
 
 ## IDSA Reference Architecture
 
-* [README](../README.md)
+* [README](./README.md)
 * [Introduction](Introduction/README.md)
 * [Relation to other IDSA documents](Context/README.md)
 * [Architectural principles](Principles/README.md)
