@@ -12,4 +12,4 @@
 
 ## Focus Papers
 
-* [Focus Papers](README.md)
+* [Focus Papers](FocusPapers.md)
