@@ -14,3 +14,5 @@ Current topics include:
 Each Focus Topic is anchored in the IDSA Rulebook and IDS Reference Archiecture Model and consistent with the Data Spaces Manifesto, providing reusable patterns and best practices.   
 
 Their modular structure ensures efficient maintenance and allows new topics to be integrated as technology and regulation evolve.
+
+To know more about other IDSA Papers, please visit [IDSA home page](https://internationaldataspaces.org/publications/papers/)
