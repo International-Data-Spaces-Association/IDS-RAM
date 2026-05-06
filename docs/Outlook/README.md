@@ -1,5 +1,5 @@
 # Outlook
-IDSA Architecture Working Group has been looking at a wide range of topics in collaboration with other IDSA working groups such as the IDSA Rulebook. Some of the topics include but not limited to the following:
+IDSA Working Group Architecture has been looking at a wide range of topics in collaboration with other IDSA working groups such as the IDSA Working Group Rulebook. Some of the topics include but not limited to the following:
 
 - Main technical concepts, architectural principles and patterns for data spaces
 
