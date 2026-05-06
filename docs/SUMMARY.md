@@ -1,6 +1,6 @@
 # Summary
 
-## IDS Reference Architecture
+## IDS Reference Architecture Model (IDS-RAM)
 
 * [README](./README.md)
 * [Introduction](Introduction/README.md)
