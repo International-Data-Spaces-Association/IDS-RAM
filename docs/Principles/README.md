@@ -1,5 +1,5 @@
 # Architecture Principles
-*This chapter provides architectural insights on the [main technical concepts of dataspaces](../docs/dataspace.md). It highlights the specifications [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol(DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/), their messages, state machines, sequences, and bindings.*
+*This chapter provides architectural insights on the [main technical concepts of dataspaces](../docs/dataspace.md). It highlights the specifications [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/), their messages, state machines, sequences, and bindings.*
 
 *Please note the content on this page does not reflect the current developments yet, instead a preview of the upcoming release and an outline of what to expect is provided.*
 
