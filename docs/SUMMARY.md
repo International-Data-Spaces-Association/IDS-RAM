@@ -1,6 +1,6 @@
 # Summary
 
-## IDSA Reference Architecture
+## IDS Reference Architecture
 
 * [README](./README.md)
 * [Introduction](Introduction/README.md)
