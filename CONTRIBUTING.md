@@ -1,4 +1,4 @@
-# Contributing to RAM5
+# Contributing to IDS-RAM
 
 The IDS-RAM is one of the core deliverables of the  [IDSA](https://www.internationaldataspaces.org) that comes along with the [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook) and in line with the [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme).
 
