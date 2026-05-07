@@ -12,4 +12,4 @@
 
 ## Focus Papers
 
-* [Focus Papers](FocusPapers.md)
+* [Focus Papers](./FocusPapers.md)
