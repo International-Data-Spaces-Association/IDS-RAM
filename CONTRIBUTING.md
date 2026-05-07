@@ -1,6 +1,6 @@
 # Contributing to IDS-RAM
 
-The IDS-RAM is one of the core deliverables of the  [IDSA](https://www.internationaldataspaces.org) that comes along with the [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook) and in line with the [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme).
+The IDS-RAM is one of the core deliverables of the  [IDSA](https://www.internationaldataspaces.org) that comes along with the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/001_Introduction/) and in line with the [Dataspace Protocol](https://docs.internationaldataspaces.org/dataspace-protocol/overview/readme).
 
 All content published here is a working draft of the Working Group Architecture. You are very welcome to contribute
 to this project when you find a bug, want to suggest an improvement, or have an idea for a useful
