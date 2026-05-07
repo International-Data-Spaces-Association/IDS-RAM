@@ -18,7 +18,7 @@ We are developing the next version of the Reference Architecture Model together 
 
 ## How to contribute ##
 
-1 First, the fundamentals: Read the Manifesto of Data Spaces and the IDSA Rulebook in the [IDSA Knowledge Base](https://docs.internationaldataspaces.org/ids-knowledgebase) to get some context.
+1 First, the fundamentals: Read the Manifesto of Data Spaces and the IDSA Rulebook in the [IDSA Knowledge Base](https://kb.internationaldataspaces.org/) to get some context.
 
 2 Get in touch with [our team](mailto:ilknur.chulani@internationaldataspaces.org?subject=RAM) to get onboarded to **Working Group Architecture**, and get invited to the shared folders and the RAM Touch Point calls. To know more about the IDSA working groups, please visit [our home page](https://internationaldataspaces.org/we/working-groups/) and the [working groups brochure](https://internationaldataspaces.org/download/50753/?tmstv=1770728340).
 
