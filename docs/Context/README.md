@@ -4,9 +4,9 @@ The International Data Spaces Association (IDSA) provides a comprehensive body o
 | Level | Document | Purpose |
 |-------|-------|-------|
 |Vision | [Manifesto of Data Spaces](https://kb.internationaldataspaces.org/external/manifesto/manifesto) | Defines core principles and  motivation |
-| Governance | [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/001_Introduction) | Establish requirements and roles |
+|Governance | [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/001_Introduction) | Establish requirements and roles |
 |Thematic guidance | [IDSA Papers on Focus topics](https://kb.internationaldataspaces.org/external/ram/FocusPapers) | Explore evolving topics in depth |
-| Technical Architecture | [IDS-RAM](https://kb.internationaldataspaces.org/external/ram/README) | Enables implementations |
+|Technical Architecture | [IDS-RAM](https://kb.internationaldataspaces.org/external/ram/) | Enables implementations |
 
 ## Manifesto of Data Spaces – The IDSA North Star
 
