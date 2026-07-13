@@ -95,7 +95,7 @@ provisions — is distributed to every participant, who applies and enforces it
 locally, and decisions about the rules are taken jointly rather than by any
 single actor.
 
-Trust is not rooted in a single authority or central identity provider. Instead,  
+Trust is not rooted in a single authority or central identity provider. Instead, 
 participants accept credentials from multiple independent issuers and each
 chooses which trust anchors and issuers to rely on. There is no mandated runtime
 dependency on a shared service: each participant holds the governance data it
