@@ -108,7 +108,8 @@ and chosen by the participants.
 Onboarding reflects the same collective logic: either a one-time onboarding entity
 issues a membership credential at join time with no ongoing dependency, or
 membership is established peer-to-peer by presenting claims to an existing
-participant that evaluates the membership rules directly.
+participant that evaluates the membership rules directly. Decentralized onboarding
+mechanisms are described in the Rulebook's [Decentralized Onboarding Patterns](https://kb.internationaldataspaces.org/external/rulebook/140_Decentralized_Patterns_Onboarding).
 
 One possible realization of this pattern is a permissioned distributed ledger (DLT)
 operated jointly by the participants. In this case, the legislative aspect of
@@ -162,9 +163,7 @@ and greater overall architectural complexity. Achieving consistency and
 interoperability is more challenging without shared services and depends on
 shared semantics, such as a common claim vocabulary. Reconciliation and dispute
 resolution require well-defined governance rules, escalation paths, and
-appropriate consensus thresholds. Dynamic runtime trust also demands robust
-negotiation protocols and continuous trust verification. Decentralized onboarding
-mechanisms are described in the Rulebook's [Decentralized Onboarding Patterns](https://kb.internationaldataspaces.org/external/rulebook/140_Decentralized_Patterns_Onboarding).
+appropriate consensus thresholds.
 
 ## Catalogs
 *Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the IDSA Rulebook page [Cataloging](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)*
