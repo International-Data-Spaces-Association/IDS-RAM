@@ -8,7 +8,7 @@ Each service operates under the governance rules of the [Dataspace Governance Au
 
 A matchmaking service can be offered by one or more independent service provider organizations; a data space may have several competing matchmaking providers, and each participant individually decides which of them, if any, to use for a given negotiation. Such a service typically runs as part of the provider's own backend rather than as a mandatory, central component of the data space, consistent with the Rulebook's [Marketplaces](https://kb.internationaldataspaces.org/external/rulebook/123_Marketplaces) guidance. Data-holding participants that wish to make their assets discoverable provide structured metadata about their data offerings to a matchmaking participant of their choice, for example via event-based metadata feeds or other mechanisms such as pull-based retrieval. This metadata includes references to the corresponding DSP contract offers through which consumers can later negotiate access to the actual data. An event-driven approach allows a matchmaking service to efficiently integrate updates, additions and removals into its continuously maintained search index.
 
-![Figure 1-Matchmaking Service](matchmaking_service.jpg)
+![Figure 1-Matchmaking Service](../media/matchmaking_service.jpg)
 
 Based on the aggregated metadata, a matchmaking service builds and operates a searchable index and exposes a contract-governed search API within the data space. Any participant seeking data can establish a DSP contract with a matchmaking service of its choice to use this search interface. In addition to synchronous search, asynchronous interaction patterns can be supported: consumer participants may register data needs at a matchmaking service and are notified when matching metadata becomes available.
 
@@ -20,7 +20,7 @@ Metadata visibility can be scoped by policy. Providers may publish public metada
 
 A billing service can likewise be offered by one or more independent billing service provider organizations, and each participant individually decides which billing provider, if any, to use for a given exchange. Such a service typically runs as part of the provider's own backend rather than as a mandatory, central component of the data space. Both data providers and data consumers that wish to use a billing provider's infrastructure are onboarded as its customers. Onboarding establishes the roles and credentials: providers are registered and authorized to report usage for billable exchanges, while consumers receive a trust credential that verifies their eligibility to be billed through that specific billing provider.
 
-![Figure 2-Billing Service](billing_service.jpg)
+![Figure 2-Billing Service](../media/billing_service.jpg)
 
 After onboarding, a data provider may offer data under the explicit condition that consumption of the corresponding DSP contract offer is billed via a billing provider it accepts. To enforce this, the provider requires that only consumers presenting a valid billing trust credential issued by that billing provider are allowed to contract the offer. These trust credentials are issued and presented using DCP.
 
