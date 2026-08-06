@@ -28,8 +28,8 @@ dimensions:
    and distributed.
 3. Runtime dependencies – whether trust establishment or participant discovery
    requires synchronous interaction with shared services.
-4. Control and neutrality – whether any participant can control, favour, or
-   exclude others, and what safeguards exist to prevent this.
+4. Control, neutrality, and impartiality – whether any participant can control, 
+   favour, or exclude others, and what safeguards exist to prevent this.
 
 The options form a spectrum rather than discrete choices. As governance authority
 and information are distributed to participants and mandatory runtime dependencies
