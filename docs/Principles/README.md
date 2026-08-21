@@ -96,9 +96,10 @@ Executes data transfer/access under the constraints of the data sharing agreemen
  
 This corresponds to the data plane referred to in the DSP Transfer Process Protocol specification.
 
+> Note: Since actual data sharing happens outside of the data space, in a peer-to-peer manner between participants, this block is out of scope for IDS-RAM but remains part of the end-to-end story of data sharing.
+
 *Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).*
  
-> Note: Since actual data sharing happens outside of the data space, in a peer-to-peer manner between participants, this block is out of scope for IDS-RAM but remains part of the end-to-end story of data sharing.
  
 ### G. Observability
  
