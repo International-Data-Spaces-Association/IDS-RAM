@@ -1,12 +1,12 @@
 # Architecture Principles 
-This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgebase](https://kb.internationaldataspaces.org/dataspace) and in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) and explains how to realize them using the technical specifications such as the [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and the [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/).
+This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgebase](https://kb.internationaldataspaces.org/dataspace) and in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) and explains how to realize them using technical specifications such as the Dataspace Protocol (DSP) and the Decentralized Claims Protocol (DCP).
 
 ## Introduction - *Starting with the main concepts*
-The [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/003_WhatIsADataspace/) and the [ISO/IEC 20151 Standard "Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics"](https://www.iso.org/standard/86589.html) define Data Spaces as:
+The [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/003_WhatIsADataspace/) and the [ISO/IEC 20151-1 Standard "Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics"](https://www.iso.org/standard/86589.html) define Data Spaces as:
  
 > Environment enabling trusted data sharing between participating parties, based on an agreed governance framework, along with an agreed set of policies, semantic models, standardized protocols, processes, and facilitating services.
 
-Based on this, data spaces have the following main concepts and characteristics, as explained in further detail in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space/) and [ISO DIS 20151](https://www.iso.org/standard/86589.html):
+Based on this, data spaces have the following main concepts and characteristics, as explained in further detail in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space/) and [ISO/IEC 20151-1](https://www.iso.org/standard/86589.html):
  
 <!-- Figure 1 -->
 ![DataSpaceconcepts](../media/Data_Space_Concepts.jpg)  
@@ -20,7 +20,7 @@ The following diagram maps the relationships between these concepts, not intendi
 <!-- Figure 2 -->
 ![VisualMap](../media/VisualMap_for_concepts.jpg)  
 <p align="center">
-  <em>Figure 2: Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151</em>
+  <em>Figure 2: Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151-1</em>
 </p>
 
   
