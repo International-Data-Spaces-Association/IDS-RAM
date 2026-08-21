@@ -59,7 +59,9 @@ The visual map of data space concepts provided earlier then evolves into the fol
 Sets the overall framework for data sharing between participants by establishing a trust framework, roles, processes, and rules.
  
 > Note: The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
- 
+
+*Please also refer to the IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md).*
+
 ### B. Credentials & Claims
  
 Establish trust-relevant identity and attributes used throughout subsequent capabilities on the participant side. This capability is closely linked with the DCP specification.  
@@ -88,7 +90,7 @@ Orchestrates and authorizes the execution of agreements and coordinates with dat
  
 The control plane part of the DSP Transfer Process Protocol and Data Plane Signaling specifications enable this capability.
 
-*Please also refer to the IDSA Rulebook page [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies).*
+*Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing), [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes) and [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies).*
  
 ### F. Data Plane
  
