@@ -1,32 +1,34 @@
 # Architecture Principles 
-This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgbase](https://kb.internationaldataspaces.org/dataspace). It highlights the specifications [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/)
-
-IDSA Rulebook [Foundational concepts page](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) provides a functional view of these capabilities in data spaces.
+This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgebase](https://kb.internationaldataspaces.org/dataspace) and in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) and explains how to realize them using the technical specifications such as the [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and the [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/).
 
 ## Introduction - *Starting with the main concepts*
 The [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/003_WhatIsADataspace/) and the [ISO/IEC 20151 Standard "Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics"](https://www.iso.org/standard/86589.html) define Data Spaces as:
  
 > Environment enabling trusted data sharing between participating parties, based on an agreed governance framework, along with an agreed set of policies, semantic models, standardized protocols, processes, and facilitating services.
 
-Data spaces have the following main concepts and characteristics, as explained in detail in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space/) and [ISO DIS 20151](https://www.iso.org/standard/86589.html):
+Based on this, data spaces have the following main concepts and characteristics, as explained in further detail in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space/) and [ISO DIS 20151](https://www.iso.org/standard/86589.html):
  
 <!-- Figure 1 -->
 ![DataSpaceconcepts](../media/Data_Space_Concepts.jpg)  
 <p align="center">
-  <em>Figure 1: Data space concepts from IDSA Rulebook and ISO/IEC 20151.</em>
+  <em>Figure 1: Data space concepts from the IDSA Rulebook and ISO/IEC 20151.</em>
 </p>
 
-The following diagram maps the relationships between the concepts, not intending to follow a process/runtime flow order, but focusing on highlighting relationships and dependencies between them.
+The following diagram maps the relationships between these concepts, not intending to follow a process/runtime flow order, but focusing on highlighting relationships and dependencies between them.  
+
  
 <!-- Figure 2 -->
 ![VisualMap](../media/VisualMap_for_concepts.jpg)  
 <p align="center">
-  <em>Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151</em>
+  <em>Figure 2: Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151</em>
 </p>
 
->Please note that some essential characteristics such as **maintaining control** and **interoperability** are not depicted in this picture, as these are cross-cutting concepts which require actions in almost each block. They have been omitted from the diagram for the sake of readability.
+  
+  
+Please note that some essential characteristics such as **maintaining control** and **interoperability** are not depicted in this picture, as these are cross-cutting concepts which require actions in almost each block. They have been omitted from the diagram for the sake of readability.
 
 **Multi-level policies** (i.e. membership policies at data space level, access policies for controlled discovery of metadata, data sharing contract policies, data use policies) needed in a data space are depicted vertically in this picture to express how they are applied in an overarching way across different levels.
+
  
 ## IDS-RAM Architectural Capabilities - *Turning data space concepts into technical guidance*
  
@@ -41,7 +43,9 @@ The architectural capabilities defined in IDS-RAM represent the functional build
 - **[Data Plane Signaling](https://github.com/eclipse-dataplane-signaling/dataplane-signaling)** which specifies interoperable control plane/data plane communication.
 
 
-The visual map of data space concepts provided earlier in this document evolves into the following view of architectural capabilities:
+  
+The visual map of data space concepts provided earlier then evolves into the following view of architectural capabilities:  
+
  
 <!-- Figure 3 -->
 ![RAM_Capabilities](../media/RAM_Capabilities.jpg)  
@@ -54,7 +58,7 @@ The visual map of data space concepts provided earlier in this document evolves 
  
 Sets the overall framework for data sharing between participants by establishing a trust framework, roles, processes, and rules.
  
-> Note: The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for completeness.
+> Note: The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
  
 ### B. Credentials & Claims
  
@@ -92,7 +96,7 @@ Executes data transfer/access under the constraints of the data sharing agreemen
  
 This corresponds to the data plane referred to in the DSP Transfer Process Protocol specification.
 
-Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).*
+*Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).*
  
 > Note: Since actual data sharing happens outside of the data space, in a peer-to-peer manner between participants, this block is out of scope for IDS-RAM but remains part of the end-to-end story of data sharing.
  
@@ -112,13 +116,14 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
 
 >Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.
 
+  
 
 ## Mapping IDS-RAM Capabilities to Specifications
-A view of technical specifications available for each capability is shown below:
+A view of technical specifications available for each capability is shown in the figure and table below:
 
  
 <!-- Figure 4 -->
-![RAM_Capabilities](../media/RAM_Capabilities.jpg)  
+![RAM_Capabilities_to_Sepecifications](../media/RAM_Capabilities_Mapping_to_Specifications.jpg)  
 <p align="center">
   <em>Figure 4: IDS-RAM Architectural Capabilities and Technical Specifications </em>
 </p>
@@ -132,3 +137,9 @@ A view of technical specifications available for each capability is shown below:
 | Contract Negotiation | Dataspace Protocol: Contract Negotiation |
 | Data Transfer | Dataspace Protocol: Transfer Process; Dataplane Signaling |
 | Observability | Observing Dataspace Protocol State Machines |
+
+ 
+<!-- Table 1 -->
+ <p align="center">
+  <em>Table 1 : IDS-RAM Architectural Capabilities mapping to Technical Specifications </em>
+</p>
