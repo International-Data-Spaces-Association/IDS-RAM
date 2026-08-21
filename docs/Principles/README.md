@@ -1,7 +1,7 @@
 # Architecture Principles 
-This chapter provides architectural insights on the [main technical concepts of dataspaces](https://kb.internationaldataspaces.org/dataspace). It highlights the specifications [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/)
+This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgbase](https://kb.internationaldataspaces.org/dataspace). It highlights the specifications [Dataspace Protocol (DSP)](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/) and [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/)
 
-[IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) provides a functional view of these capabilities in data spaces.
+IDSA Rulebook [Foundational concepts page](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) provides a functional view of these capabilities in data spaces.
 
 ## Introduction - *Starting with the main concepts*
 The [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/003_WhatIsADataspace/) and the [ISO/IEC 20151 Standard "Information technology — Cloud computing and distributed platforms — Dataspace concepts and characteristics"](https://www.iso.org/standard/86589.html) define Data Spaces as:
@@ -11,16 +11,18 @@ The [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/003
 Data spaces have the following main concepts and characteristics, as explained in detail in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space/) and [ISO DIS 20151](https://www.iso.org/standard/86589.html):
  
 <!-- Figure 1 -->
-![EMBEDDEDIMAGE](placeholder-0)
- 
-**Figure 1.** Data space concepts from IDSA Rulebook and ISO/IEC 20151   
+![DataSpaceconcepts](../media/Data_Space_Concepts.jpg)  
+<p align="center">
+  <em>Figure 1: Data space concepts from IDSA Rulebook and ISO/IEC 20151.</em>
+</p>
 
 The following diagram maps the relationships between the concepts, not intending to follow a process/runtime flow order, but focusing on highlighting relationships and dependencies between them.
  
 <!-- Figure 2 -->
-![EMBEDDEDIMAGE](placeholder-1)
- 
-**Figure 2.** Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151  
+![VisualMap](../media/VisualMap_for_concepts.jpg)  
+<p align="center">
+  <em>Visual Map for Data Space Concepts from IDSA Rulebook and ISO/IEC 20151</em>
+</p>
 
 >Please note that some essential characteristics such as **maintaining control** and **interoperability** are not depicted in this picture, as these are cross-cutting concepts which require actions in almost each block. They have been omitted from the diagram for the sake of readability.
 
@@ -41,12 +43,13 @@ The architectural capabilities defined in IDS-RAM represent the functional build
 
 The visual map of data space concepts provided earlier in this document evolves into the following view of architectural capabilities:
  
-<!-- Figure 4 -->
-![EMBEDDEDIMAGE](placeholder-2)
- 
-**Figure 4.** IDS-RAM Architectural Capabilities  
+<!-- Figure 3 -->
+![RAM_Capabilities](../media/RAM_Capabilities.jpg)  
+<p align="center">
+  <em>Figure 3: IDS-RAM Architectural Capabilities</em>
+</p>
 
- 
+ 
 ### A. Data Space Governance Authority
  
 Sets the overall framework for data sharing between participants by establishing a trust framework, roles, processes, and rules.
@@ -114,13 +117,13 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
 A view of technical specifications available for each capability is shown below:
 
  
-<!-- Figure 5 -->
-![EMBEDDEDIMAGE](placeholder-3)
+<!-- Figure 4 -->
+![RAM_Capabilities](../media/RAM_Capabilities.jpg)  
+<p align="center">
+  <em>Figure 4: IDS-RAM Architectural Capabilities and Technical Specifications </em>
+</p>
  
-**Figure 5.** IDS-RAM Architectural Capabilities and Technical Specifications    
 
-
- 
   
 | Architectural Capability | Technical Specifications |
 |-------------------------|--------------------------|
