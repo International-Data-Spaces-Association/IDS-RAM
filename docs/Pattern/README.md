@@ -28,7 +28,7 @@ Connectors are also often not reachable from the public Internet, as they typica
 
 What the patterns below change is where the catalog index lives and who operates it, how metadata from many providers is brought together (if at all), the network reachability each pattern requires, and the resulting freshness, availability, trust, and search experience. As with the other capabilities, the options form a spectrum from a single central index to purely peer-to-peer discovery.
 
-### Central and Federated
+### Central and federated catalogs
 
 In the central variant a single Catalog Service aggregates metadata from all participants into one authoritative index that consumers query. In the federated variant several catalog services, typically per domain or sub-community, are aggregated or cross-queried so consumers obtain a combined view without a single global operator. Either way, consumers get one place (or a few) to search and rely at query time on an index that someone operates. The index may be operated by the Data Space Governance Authority (DSGA) itself, by an operator acting under the DSGA's authority (such as an operations company), or by an intermediary offering the catalog as a value-added service. In the first two cases the index is a governance-provided service for which the DSGA remains accountable. Instead, in the third case the intermediary operates in its own right and, following the Rulebook, is not itself the DSGA. An operations company thus operates governance services under the DSGA's authority, whereas an intermediary provides a value-added service independently.
 
@@ -56,19 +56,19 @@ Since catalog views are credential-scoped, a crawler cannot simply fetch one glo
 
 Push-based collection faces the same requirement from the other side: the catalog must store each dataset's access policy alongside its metadata so it can scope what each consumer sees. In practice the two approaches are often combined — for example, providers push change notifications while the catalog pulls a full synchronization on a schedule — to balance freshness against load.
 
-#### Trade-offs
+#### Trade-offs for central and federated catalogs
 
 A central or federated catalog gives the best discovery experience: a single, consistent place to search across many providers, with server-side query, ranking, and normalization.
 
 The trade-offs are that the index is a runtime dependency and a potential single point of failure for discovery (though not for data transfer, which remains peer-to-peer), its contents can be stale relative to the source, and whoever operates it can see the aggregate of what participants offer. This is a confidentiality and neutrality consideration, since the full catalog can reveal competitive information or let the operator favour or hide offerings. As with any central component, the centralization should be justified and mitigated — for example through replication or high availability, consumer-side caching, credential-scoped visibility so that no single view exposes everything, and federation so that no single operator holds the whole index.
 
-### Decentral
+### Decentral catalogs
 
 Here there is no aggregated central index. Each participant exposes its own catalog through its connector's Catalog Service endpoint, and consumers discover offerings by querying providers directly over the Catalog Protocol. Metadata stays at its source, so it is always authoritative and current, and each provider enforces credential-scoped visibility at its own endpoint using the requester's claims. No operator sees the whole space, and there is no shared component whose failure stops discovery.
 
 The open question in this pattern is how a consumer finds the providers worth querying. One option is consumer-side aggregation where a participant queries the endpoints relevant to it and builds its own local index. Another option is a decentralized or replicated directory of catalog endpoints which provides a lightweight shared list of participants and their connector endpoints. This approach is far smaller and less sensitive than a full metadata catalog, and can itself be anchored in the manner described for the registry in the DSGA pattern. A third option is federated-catalog components that any participant may run for its own use, harvesting from others as above. These blur the line with the central pattern, the difference being that any such index is optional, participant-operated, and not a shared dependency.
 
-#### Trade-offs
+#### Trade-offs for decentral catalogs
 
 Decentral discovery maximizes autonomy, keeps metadata authoritative and fresh, removes the single point of failure, and prevents any operator from seeing the whole catalog.
 
@@ -82,6 +82,6 @@ A further constraint is network reachability. Because connectors may not be publ
 
 ### Federated or Central Escrow
 
-### Decentral
+### Decentral observability
 
 TODO: *Insights on decentral observability and corresponding trade-offs*
