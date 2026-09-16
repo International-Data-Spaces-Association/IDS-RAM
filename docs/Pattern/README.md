@@ -6,7 +6,7 @@
 
 ## Data Space Governance Authority (DSGA)
 
-This section defines different architectural options for realizing a Data Space 
+This section defines different architectural options for realizing a Data Space
 Governance Authority (DSGA). Please also refer to the IDSA Rulebook page [DSGA](https://kb.internationaldataspaces.org/external/rulebook/006_DSGA).
 
 The Rulebook defines the DSGA as a functional role and distinguishes it from the
@@ -28,7 +28,7 @@ dimensions:
    and distributed.
 3. Runtime dependencies – whether trust establishment or participant discovery
    requires synchronous interaction with shared services.
-4. Control, neutrality, and impartiality – whether any participant can control, 
+4. Control, neutrality, and impartiality – whether any participant can control,
    favour, or exclude others, and what safeguards exist to prevent this.
 
 The options form a spectrum rather than discrete choices. As governance authority
@@ -36,7 +36,7 @@ and information are distributed to participants and mandatory runtime dependenci
 on shared services are reduced, a data space moves toward the decentralized end
 of the spectrum.
 
-### Central and Federated
+### Central and federated DSGA
 
 Here the DSGA function is embodied in shared infrastructure. In the central
 variant a single authority — typically a dedicated legal entity such as an
@@ -69,7 +69,7 @@ This pattern is often appropriate where a data space needs a clear single point
 of accountability, simplified and consistent onboarding, an authoritative source
 of truth, or where regulation requires a designated responsible entity.
 
-#### Trade-offs
+#### Trade-offs of central and federated DSGA
 
 This pattern provides clear accountability and contractual responsibility through
 a shared authority. It simplifies and standardizes onboarding, dispute resolution,
@@ -86,7 +86,7 @@ complemented by appropriate safeguards, including transparent governance
 processes, audit rights, revocation mechanisms, and, where feasible, alternative
 providers.
 
-### Decentral
+### Decentral DSGA
 
 Here the DSGA function is not embodied in shared infrastructure. Governing
 authority is not delegated to a designated party but exercised collectively:
@@ -95,7 +95,7 @@ provisions — is distributed to every participant, who applies and enforces it
 locally, and decisions about the rules are taken jointly rather than by any
 single actor.
 
-Trust is not rooted in a single authority or central identity provider. Instead, 
+Trust is not rooted in a single authority or central identity provider. Instead,
 participants accept credentials from multiple independent issuers and each
 chooses which trust anchors and issuers to rely on. There is no mandated runtime
 dependency on a shared service: each participant holds the governance data it
@@ -151,7 +151,7 @@ are primary objectives. It is particularly suitable where governance can be
 exercised collectively and participants are willing to share responsibility for
 operating the governance framework.
 
-#### Trade-offs
+#### Trade-offs of decentral DSGA
 
 This pattern provides maximal participant autonomy and agency, neutrality with
 no single participant holding power over others, the absence of a single point of
@@ -166,19 +166,23 @@ resolution require well-defined governance rules, escalation paths, and
 appropriate consensus thresholds.
 
 ## Catalogs
-*Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the IDSA Rulebook page [Cataloging](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)*
+
+TODO: *Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the IDSA Rulebook page [Cataloging](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)*
 
 ### Federated or Central (Marketplace)
-*Insights on federated or central catalogs and corresponding trade-offs*
+
+TODO: *Insights on federated or central catalogs and corresponding trade-offs*
 
 ### Decentral
-*Insights on decentral catalogs and corresponding trade-offs*
 
+TODO: *Insights on decentral catalogs and corresponding trade-offs*
 
 ## Observer
-*Different architectural options for implementing Observer role. Please also refer to the IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and IDSA position paper [Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023)* 
+
+TODO: *Different architectural options for implementing Observer role. Please also refer to the IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and IDSA position paper [Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023)*
 
 ### Federated or Central Escrow
 
-### Decentral
-*Insights on decentral observability and corresponding trade-offs*
+### Decentral observability
+
+TODO: *Insights on decentral observability and corresponding trade-offs*
