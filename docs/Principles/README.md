@@ -43,15 +43,18 @@ The visual map of data space concepts provided earlier then evolves into the fol
 
 Sets the overall framework for data sharing between participants by establishing a trust framework, roles, processes, and rules.
 
-> Note: The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
+!!! note
+    The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
 
-*Please also refer to the IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md).*
+!!! tip "See also"
+    IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md).
 
 ### B. Credentials & Claims
 
 Establish trust-relevant identity and attributes used throughout subsequent capabilities on the participant side. This capability is closely linked with the DCP specification.  
 
-*Please also refer to the IDSA Rulebook pages on [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust), [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks), [Attributes and claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims), [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity), and working draft paper on [Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces).*
+!!! tip "See also"
+    IDSA Rulebook pages on [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust), [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks), [Attributes and claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims), [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity), and working draft paper on [Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces).
 
 ### C. Cataloging
 
@@ -59,7 +62,8 @@ Supports the discovery of data and services through metadata publication and con
 
 Cataloging capability is based on the DSP Catalog Protocol specification, which makes use of DCAT and application profiles.
 
-*Please also refer to the IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices).*
+!!! tip "See also"
+    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices).
 
 ### D. Contract Negotiation
 
@@ -67,7 +71,8 @@ Formalizes rights and obligations into enforceable data sharing agreements.
 
 This capability is realized by the DSP Contract Negotiation Protocol.
 
-*Please also refer to the IDSA Rulebook page [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing)*
+!!! tip "See also"
+    IDSA Rulebook page [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing).
 
 ### E. Control Plane & Policy Enforcement
 
@@ -75,7 +80,8 @@ Orchestrates and authorizes the execution of agreements and coordinates with dat
 
 The control plane part of the DSP Transfer Process Protocol and Data Plane Signaling specifications enable this capability.
 
-*Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing), [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes) and [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies).*
+!!! tip "See also"
+    IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing), [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes) and [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies).
 
 ### F. Data Plane
 
@@ -83,9 +89,11 @@ Executes data transfer/access under the constraints of the data sharing agreemen
 
 This corresponds to the data plane referred to in the DSP Transfer Process Protocol specification.
 
-> Note: Since actual data sharing happens outside of the data space, in a peer-to-peer manner between participants, this block is out of scope for IDS-RAM but remains part of the end-to-end story of data sharing.
+!!! note
+    Since actual data sharing happens outside of the data space, in a peer-to-peer manner between participants, this block is out of scope for IDS-RAM but remains part of the end-to-end story of data sharing.
 
-*Please also refer to the IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).*
+!!! tip "See also"
+    IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).
 
 ### G. Observability
 
@@ -93,7 +101,8 @@ Provides evidence and accountability for actions taken during Contract negotiati
 
 > For simplicity, the diagram only depicts the relationship with the Control Plane capability.
 
-*Please also refer to the IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and [IDSA position paper Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023).*
+!!! tip "See also"
+    IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and [IDSA position paper Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023).
 
 ### H. Optional Services
 
