@@ -110,17 +110,5 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
 
 >Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.
 
-## Mapping IDS-RAM Capabilities to Specifications
-
-A view of technical specifications available for each capability is shown in the figure and table below:
-
-<!-- Figure 4 -->
-![Figure 4: IDS-RAM Architectural Capabilities and Technical Specifications](../media/RAM_Capabilities_Mapping_to_Specifications.jpg)  
-  
-| Architectural Capability | Technical Specifications |
-| ------------------------- | -------------------------- |
-| Credentials & Claims | Decentralized Claims Protocol (DCP) |
-| Cataloging | Dataspace Protocol: Catalog |
-| Contract Negotiation | Dataspace Protocol: Contract Negotiation |
-| Data Transfer | Dataspace Protocol: Transfer Process; Dataplane Signaling |
-| Observability | Observing Dataspace Protocol State Machines |
+## Mapping to technical specifications
+A mapping of the RAM capabilities to technical specifications may be found [here](Mapping_to_Specifications.md). 
