@@ -19,9 +19,9 @@ The result of contract negotiation is an agreement that can be **referenced by o
 ## Further Resources
 
 - **IDSA Rulebook Guidance**
-  - [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing.md)
-  - [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes.md)
-  - [Policies: Contract Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies.md#contract-policies)
+  - [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing)
+  - [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes)
+  - [Policies: Contract Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies#contract-policies)
 
 - **Focus Papers**
   - [IDSA Position Paper: Semantic Interoperability in Data Spaces](https://internationaldataspaces.org/download/52879/?tmstv=1772198923)
