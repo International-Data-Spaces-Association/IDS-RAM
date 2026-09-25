@@ -2,7 +2,7 @@
  
 Based on the trust framework Data Space Governance Authority establishes in a data space, Credentials and Claims provide the architectural means for **identity, trust, and authorization** for participants. It helps ensure that all participants and their technical components (Connectors/participant agents) are uniquely identified and their security posture is verifiable.  
 
-This capability is realized through the **Decentralized Claims Protocol (DCP)**, which acts as an interoperable overlay to DSP.  
+This capability is realized through the **Decentralized Claims Protocol (DCP)**, which acts as an interoperable overlay to Dataspace Protocol (DSP).  
 
 DCP:
  
@@ -32,4 +32,7 @@ DCP:
     
 - **Related Focus Papers:**
   - [Draft paper on Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces)
+ 
+- **IDS-RAM Architectural Patterns:**
+  - [DSGA Patterns](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-catalogs-architecture-pattern/docs/Pattern)
  
