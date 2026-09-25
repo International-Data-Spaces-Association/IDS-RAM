@@ -20,8 +20,13 @@ A major architectural shift in this version of IDS-RAM is the deprecation of the
 
 Observability is closely linked to other concepts such as Provenance and Traceability. However, the scope of this capability is not solving end-to-end observability challenges in data space ecosystems. These would imply very diverse requirements and therefore would be best left to use-case implementations to leave room for the flexibility they would need.  
 
+<!-- Figure 1 -->
+![Figure 1: Scope: Observability of Data sharing contracts, not end-to-end observability in data ecosystems](../media/Observability_Scope.jpg)  
+
 It is important to note that at the technical layer, this capability may be implemented by approaching the sharing of observability data just like another data sharing contract, however, setting up the necessary business processes and governance rules are the really necessary steps to truly achieve observability.
- 
+ <!-- Figure 1 -->
+![Figure 1: The need for Business and Governance Processes more than technical elements](../media/Observability_Business_Governance.jpg)  
+
 ## Further Resources
 - **IDSA Rulebook Guidance**
   - [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability)
