@@ -19,13 +19,13 @@ DCP:
  
 ## Further resources
 - **IDSA Rulebook Guidance:**
-  - [Trust](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/008_Trust.md)
-  - [Decentralization: Trust Frameworks and Credential Management](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/007_Decentralization.md#trust-frameworks-and-credential-management)
-  - [Dataspace Trust Frameworks](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/009_Dataspace_Trust_Frameworks.md)
-  - [Establishing Trust](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/103_Establishing_Trust.md)
-  - [Attributes and Claims](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/104_Attributes_and_claims.md)
-  - [Identity](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/107_Identity.md)
-  - [Decentralized Patterns: Onboarding](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/140_Decentralized_Patterns_Onboarding.md)
+  - [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust)
+  - [Decentralization: Trust Frameworks and Credential Management](https://kb.internationaldataspaces.org/external/rulebook/007_Decentralization/#trust-frameworks-and-credential-management)
+  - [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks)
+  - [Establishing Trust](https://kb.internationaldataspaces.org/external/rulebook/103_Establishing_Trust)
+  - [Attributes and Claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims)
+  - [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity)
+  - [Decentralized Patterns: Onboarding](https://kb.internationaldataspaces.org/external/rulebook/140_Decentralized_Patterns_Onboarding)
  
 - **Technical specifications:**
   - [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/)
