@@ -47,25 +47,25 @@ Sets the overall framework for data sharing between participants by establishing
     The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
 
 !!! tip "See also"
-    IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md).
+    IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md) and IDS-RAM [Architectural patterns for DSGA](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-dsga-architecture-pattern/docs/Pattern).
 
-### B. Credentials & Claims
+### B. [Credentials & Claims](Credentials_and_Claims.md)
 
 Establish trust-relevant identity and attributes used throughout subsequent capabilities on the participant side. This capability is closely linked with the DCP specification.  
 
 !!! tip "See also"
     IDSA Rulebook pages on [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust), [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks), [Attributes and claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims), [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity), and working draft paper on [Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces).
 
-### C. Cataloging
+### C. [Cataloging](Cataloging.md)
 
 Supports the discovery of data and services through metadata publication and controlled visibility.
 
 Cataloging capability is based on the DSP Catalog Protocol specification, which makes use of DCAT and application profiles.
 
 !!! tip "See also"
-    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices).
+    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices) and and IDS-RAM [Architectural patterns for Catalogs](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-catalogs-architecture-pattern/docs/Pattern#catalogs).
 
-### D. Contract Negotiation
+### D. [Contract Negotiation](Contract_Negotiation.md)
 
 Formalizes rights and obligations into enforceable data sharing agreements.
 
@@ -74,7 +74,7 @@ This capability is realized by the DSP Contract Negotiation Protocol.
 !!! tip "See also"
     IDSA Rulebook page [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing).
 
-### E. Control Plane & Policy Enforcement
+### E. [Control Plane](Data_Transfer.md#control-plane) & [Policy Enforcement](Data_Transfer.md#policy-enforcement)
 
 Orchestrates and authorizes the execution of agreements and coordinates with data plane mechanisms using interoperable protocol bindings.
 
@@ -83,7 +83,7 @@ The control plane part of the DSP Transfer Process Protocol and Data Plane Signa
 !!! tip "See also"
     IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing), [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes) and [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies).
 
-### F. Data Plane
+### F. [Data Plane](Data_Transfer.md#data-plane)
 
 Executes data transfer/access under the constraints of the data sharing agreement and orchestration decisions.
 
@@ -95,7 +95,7 @@ This corresponds to the data plane referred to in the DSP Transfer Process Proto
 !!! tip "See also"
     IDSA Rulebook pages [Data Sharing](https://kb.internationaldataspaces.org/external/rulebook/110_Data_sharing) and [Planes](https://kb.internationaldataspaces.org/external/rulebook/010_Planes).
 
-### G. Observability
+### G. [Observability](Observability.md)
 
 Provides evidence and accountability for actions taken during Contract negotiation, Orchestration (control plane), Data access and use (data plane). Observing actions supports trust frameworks and compliance needs without requiring centralization of data content. Observability may also provide inputs to optional services such as auditing.
 
@@ -108,7 +108,10 @@ Provides evidence and accountability for actions taken during Contract negotiati
 
 Represents ecosystem represent ecosystem extensions (e.g., marketplaces, processing services, auditing services, escrow/confidential compute), which may be provided by participants subject to the dataspace governance framework. In the diagram, optional services “execute and enforce” the data plane and “provide inputs” into governance and framework elements.
 
->Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.
+>Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.  
+
+!!! tip "See also"
+   Focus paper [Value adding services](https://github.com/International-Data-Spaces-Association/IDS-RAM/blob/95-add-value-adding-service-pattern-for-decentralized-dataspaces/docs/FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
 ## Mapping to technical specifications
 A mapping of the RAM capabilities to technical specifications may be found [here](Mapping_to_Specifications.md). 
