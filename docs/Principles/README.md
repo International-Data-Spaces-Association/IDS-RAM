@@ -47,14 +47,14 @@ Sets the overall framework for data sharing between participants by establishing
     The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
 
 !!! tip "See also"
-    IDSA Rulebook pages on [DSGA](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/Rulebook-3.0/006_DSGA.md) and IDS-RAM [Architectural patterns for DSGA](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-dsga-architecture-pattern/docs/Pattern).
+    IDSA Rulebook pages on [DSGA](https://kb.internationaldataspaces.org/external/rulebook/006_DSGA) and IDS-RAM [Architectural patterns for DSGA](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-dsga-architecture-pattern/docs/Pattern).
 
 ### B. [Credentials & Claims](Credentials_and_Claims.md)
 
 Establish trust-relevant identity and attributes used throughout subsequent capabilities on the participant side. This capability is closely linked with the DCP specification.  
 
 !!! tip "See also"
-    IDSA Rulebook pages on [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust), [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks), [Attributes and claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims), [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity), and working draft paper on [Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces).
+    IDSA Rulebook pages on [Trust](https://kb.internationaldataspaces.org/external/rulebook/008_Trust), [Dataspace Trust Frameworks](https://kb.internationaldataspaces.org/external/rulebook/009_Dataspace_Trust_Frameworks), [Attributes and claims](https://kb.internationaldataspaces.org/external/rulebook/104_Attributes_and_claims), [Identity](https://kb.internationaldataspaces.org/external/rulebook/107_Identity),[Decentralized onboarding](https://kb.internationaldataspaces.org/external/rulebook/140_Decentralized_Patterns_Onboarding) and working draft paper on [Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces).
 
 ### C. [Cataloging](Cataloging.md)
 
