@@ -61,3 +61,4 @@ This division ensures that dataspaces can scale without assuming control over pa
 
 - **Specifications**
   - [Dataspace Protocol: Transfer Process Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#transfer-protocol)
+  - [Data Plane Signaling](https://github.com/eclipse-dataplane-signaling/dataplane-signaling)
