@@ -60,5 +60,8 @@ This division ensures that dataspaces can scale without assuming control over pa
   - [Policies](https://kb.internationaldataspaces.org/external/rulebook/105_Policies)
 
 - **Specifications**
-  - [Dataspace Protocol: Transfer Process Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#transfer-protocol)
+  - [Dataspace Protocol: Transfer Process Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err2/#transfer-protocol)
   - [Data Plane Signaling](https://github.com/eclipse-dataplane-signaling/dataplane-signaling)
+ 
+- **See also**
+  - [Data Plane Core](https://projects.eclipse.org/projects/technology.dataplane-core) - Data plane SDKs for several programming languages
