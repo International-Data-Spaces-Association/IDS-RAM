@@ -29,4 +29,5 @@ The result of contract negotiation is an agreement that can be **referenced by o
 
 - **Specifications**
   - [Dataspace Protocol: Negotiation Protocol Specification](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#negotiation-protocol)
-
+  - [ODRL Information Model](https://www.w3.org/TR/odrl-model/)  
+  - [ODRL Vocabulary & Expression](http://www.w3.org/TR/vocab-odrl/)   
