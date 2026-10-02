@@ -35,5 +35,5 @@ It is important to note that at the technical layer, this capability may be impl
   - [IDSA Position Paper: Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1772198923)
  
 - **Specifications**
-  - [Dataspace Protocol: State Machines](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/)
+  - [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/) - See State Machines for what can be observed for each sub-protocol 
  
