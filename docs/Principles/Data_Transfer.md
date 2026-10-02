@@ -5,7 +5,7 @@ Data Transfer orchestrates the **actual exchange or access of data** between dat
 This capability does **not** define how data is transferred; instead, it defines **transfer process messages** that coordinate *when* and *under which agreement* data transfer may occur.
 
 - Data transfer is **peer-to-peer** between participants
-- Multiple transfer modalities are possible (files, APIs, streams, confidential compute)
+- Multiple transfer methods are supported (files, APIs, streams, confidential compute)
 - Transfer protocols are selected and bound outside DSP
 
 This design decouples governance and interoperability (control plane) from performance- and domain-specific data exchange (data plane).
