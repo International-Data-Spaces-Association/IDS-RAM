@@ -25,7 +25,7 @@ As explained in the [IDSA Rulebook](https://kb.internationaldataspaces.org/exter
   - [Cataloging (Data Discovery Services)](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices/)
  
 - **Technical specifications:**
-  - [Dataspace Protocol: Catalog Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#catalog-protocol)
+  - [Dataspace Protocol: Catalog Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err2/#catalog-protocol)
   - [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/)
  
 - **Related Focus Papers:**
