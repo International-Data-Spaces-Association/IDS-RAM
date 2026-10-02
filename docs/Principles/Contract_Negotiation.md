@@ -28,6 +28,6 @@ The result of contract negotiation is an agreement that can be **referenced by o
     - Particularly relevant: Section 3.4, *Open Digital Rights Language (ODRL)*, for the definition of usage terms for the contract
 
 - **Specifications**
-  - [Dataspace Protocol: Negotiation Protocol Specification](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#negotiation-protocol)
+  - [Dataspace Protocol: Contract Negotiation Protocol Specification](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err2/#negotiation-protocol)
   - [ODRL Information Model](https://www.w3.org/TR/odrl-model/)  
   - [ODRL Vocabulary & Expression](http://www.w3.org/TR/vocab-odrl/)   
