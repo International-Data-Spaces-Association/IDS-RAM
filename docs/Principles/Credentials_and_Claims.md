@@ -29,6 +29,8 @@ DCP:
  
 - **Technical specifications:**
   - [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/)
+  - [W3C Verified Credentials Data Model](https://www.w3.org/TR/vc-data-model-2.1/)  
+  - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-1.1/)
     
 - **Related Focus Papers:**
   - [Draft paper on Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces)
