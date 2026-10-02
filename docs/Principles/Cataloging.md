@@ -26,6 +26,7 @@ As explained in the [IDSA Rulebook](https://kb.internationaldataspaces.org/exter
  
 - **Technical specifications:**
   - [Dataspace Protocol: Catalog Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#catalog-protocol)
+  - [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/)
  
 - **Related Focus Papers:**
   - [IDSA Position Paper on Semantic Interoperability](https://internationaldataspaces.org/download/52879/?tmstv=1772198923)
