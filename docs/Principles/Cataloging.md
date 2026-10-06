@@ -36,4 +36,4 @@ As explained in the [IDSA Rulebook](https://kb.internationaldataspaces.org/exter
      - 3.4 Open Digital Rights Language (ODRL)
    
 - **IDS-RAM Architectural Patterns:**
-  - [Catalog Patterns](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-catalogs-architecture-pattern/docs/Pattern)
+  - [Catalog Patterns](../Pattern/Catalogs.md)
