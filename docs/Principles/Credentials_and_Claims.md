@@ -36,5 +36,5 @@ DCP:
   - [Draft paper on Identifiers in Data Spaces](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces)
  
 - **IDS-RAM Architectural Patterns:**
-  - [DSGA Patterns](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-catalogs-architecture-pattern/docs/Pattern)
+  - [DSGA Patterns](../docs/Pattern/DSGA.md)
  
