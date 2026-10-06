@@ -47,7 +47,7 @@ Sets the overall framework for data sharing between participants by establishing
     The DSGA is not a technical artefact for the IDS-RAM, but a functional role described in the IDSA Rulebook. IDS-RAM focuses mostly on the participant side; however, the governance framework is included for the sake of completeness.
 
 !!! tip "See also"
-    IDSA Rulebook pages on [DSGA](https://kb.internationaldataspaces.org/external/rulebook/006_DSGA) and IDS-RAM [Architectural patterns for DSGA](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-dsga-architecture-pattern/docs/Pattern).
+    IDSA Rulebook pages on [DSGA](https://kb.internationaldataspaces.org/external/rulebook/006_DSGA) and IDS-RAM [Architectural patterns for DSGA](../Pattern/DSGA.md).
 
 ### B. [Credentials & Claims](Credentials_and_Claims.md)
 
@@ -63,7 +63,7 @@ Supports the discovery of data and services through metadata publication and con
 Cataloging capability is based on the DSP Catalog Protocol specification, which makes use of DCAT and application profiles.
 
 !!! tip "See also"
-    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices) and and IDS-RAM [Architectural patterns for Catalogs](https://github.com/International-Data-Spaces-Association/IDS-RAM/tree/20260713-update-catalogs-architecture-pattern/docs/Pattern#catalogs).
+    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices) and and IDS-RAM [Architectural patterns for Catalogs](../Pattern/Catalogs.md).
 
 ### D. [Contract Negotiation](Contract_Negotiation.md)
 
@@ -111,7 +111,7 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
 >Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.  
 
 !!! tip "See also"
-   Focus paper [Value adding services](https://github.com/International-Data-Spaces-Association/IDS-RAM/blob/95-add-value-adding-service-pattern-for-decentralized-dataspaces/docs/FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
+   Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
 ## Mapping to technical specifications
 A mapping of the RAM capabilities to technical specifications may be found [here](Mapping_to_Specifications.md). 
