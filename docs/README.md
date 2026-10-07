@@ -6,7 +6,7 @@
 * [Architectural Patterns](Pattern/README.md)
 * [Outlook](Outlook/README.md)
 * [Front Matter](./FrontMatter.md)
-* [Focus Papers](./FocusPapers.md)
+* [Focus Papers](FocusPapers/README.md)
 
 # IDS-RAM 2026-1 working draft
 
