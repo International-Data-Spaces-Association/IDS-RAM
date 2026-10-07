@@ -6,15 +6,7 @@
 
 ## Data Space Governance Authority (DSGA)
 
-*Different architectural options for realizing a Data Space Governance Authority. Please also refer to the IDSA Rulebook page [DSGA](https://kb.internationaldataspaces.org/external/rulebook/006_DSGA)*
-
-### Federated or Central
-
-TODO: *Insights on federated or central DSGA and corresponding trade-offs*
-
-### Decentral
-
-*Insights on decentral DSGA and corresponding trade-offs. Please also refer to the IDSA Rulebook page [Decentralized Onboarding Patterns](https://kb.internationaldataspaces.org/external/rulebook/140_Decentralized_Patterns_Onboarding)*
+[The Data Space Governance Authority (DSGA) section](DSGA.md) provides architectural options for realizing a Data Space Governance Authority. The section covers central, federated and decentral approaches.
 
 ## Catalogs
 
@@ -22,7 +14,7 @@ TODO: *Insights on federated or central DSGA and corresponding trade-offs*
 
 ## Observer
 
-*Different architectural options for implementing Observer role. Please also refer to the IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and IDSA position paper [Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023)*
+TODO: *Different architectural options for implementing Observer role. Please also refer to the IDSA Rulebook page [Observability](https://kb.internationaldataspaces.org/external/rulebook/121_Observability) and IDSA position paper [Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1777284023)*
 
 ### Federated or Central Escrow
 
