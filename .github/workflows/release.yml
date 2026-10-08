@@ -37,6 +37,7 @@ jobs:
           args: >-
             docs/_combined.md
             --from=markdown
+            --lua-filter=.github/scripts/constrain_images.lua
             --standalone
             --toc
             --number-sections
@@ -56,6 +57,7 @@ jobs:
           args: >-
             docs/FrontMatter.md
             --from=markdown-implicit_figures
+            --lua-filter=.github/scripts/constrain_images.lua
             --standalone
             --pdf-engine=xelatex
             -V papersize=a4

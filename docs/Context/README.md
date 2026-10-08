@@ -1,4 +1,5 @@
 # Relation to other IDSA Documents
+
 The International Data Spaces Association (IDSA) provides a comprehensive body of documentation that serves as both a strategic compass and a practical guide for building interoperable, trusted data spaces. IDSA documents follow a clear top-down structure: starting with vision and principles, moving to governance and requirements, narrowing into thematic clarity, and concluding with technical realization. This structure ensures coherence across conceptual, operational, and technical domains, enabling organizations to confidently adopt data space principles at scale.
 
 | Level | Document | Purpose |
