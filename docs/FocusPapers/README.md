@@ -13,7 +13,7 @@ Current topics include:
 - **IDSA Position Paper Data Spaces and AI Trustworthy Agentic Participation in Data Spaces** - This [position paper](https://internationaldataspaces.org/download/56028/?tmstv=1784794145) establishes a shared vocabulary for readers coming from either side of this convergence, sets out today’s AI challenges and how the building blocks of a data space address them, details the concrete value AI brings to operating a data space and grounds the discussion in pilots already underway.
 - **Value-Adding Services** – an architectural pattern for offering matchmaking and billing as competing, non-mandatory participant services in a decentralized data space, preserving sovereignty and avoiding centralized control points: Draft Focus Paper [Value-Adding Services in Decentralized Data Spaces](Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
-Each Focus Topic is anchored in the IDSA Rulebook and IDS Reference Archiecture Model and consistent with the Data Spaces Manifesto, providing reusable patterns and best practices.
+Each Focus Topic is anchored in the IDSA Rulebook and IDS Reference Architecture Model and consistent with the Data Spaces Manifesto, providing reusable patterns and best practices.
 
 Their modular structure ensures efficient maintenance and allows new topics to be integrated as technology and regulation evolve.
 

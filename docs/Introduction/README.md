@@ -30,14 +30,14 @@ __Capability Mapping:__ This section lists the essential capabilities enabled th
 policy enforcement, usage control, identity resolution, and observability. Each capability is analyzed from a technical
 perspective, detailing how it can be implemented within a compliant dataspace. The descriptions are aligned with the
 IDSA Rulebook and maintains references to the foundational concepts to highlight the strong relation between the two
-documents. The IDS-RAM content is however grounded in system-level detail, interactions pattern, documents expected
+documents. The IDS-RAM content is however grounded in system-level detail, interaction patterns, documented expected
 behavior, and provides guidance on integration patterns of infrastructure and other technologies.
 
 __Architectural Best Practices:__ Recognizing the diversity of business and technical requirements across domains, the
 IDS-RAM does not enforce a singular architecture. Instead, it presents validated patterns and warns against known
 anti-patterns, guiding implementers through the architectural decisions while setting up or operating a dataspace.
 Whether the goal is to create a lightweight edge connector, operate a multi-tenant marketplace, or integrate with
-existing enterprise systems, the IDS-RAM aims on outlining the architectural considerations and trade-offs—while maintaining
+existing enterprise systems, the IDS-RAM aims to outline the architectural considerations and trade-offs—while maintaining
 compatibility with the IDSA model.
 
 The IDS-RAM is intentionally neutral with respect to implementations. It refrains from endorsing any specific codebase or
@@ -51,7 +51,7 @@ behind decisions. Periodic release tags of the IDS-RAM document however will pro
 their work with a consistent snapshot of the evolving model.
 
 ## Contributions
-The IDSA Working Group Architecure creates and maintains the IDS-RAM. Its mission is to guide architects and software engineers in designing and developing trusted, interoperable, and compliant data spaces.
+The IDSA Working Group Architecture creates and maintains the IDS-RAM. Its mission is to guide architects and software engineers in designing and developing trusted, interoperable, and compliant data spaces.
 
 To know more about the IDSA Working Group Architecture, please visit [our home page](https://internationaldataspaces.org/we/working-groups/). The [IDSA working groups brochure](https://internationaldataspaces.org/download/50753/?tmstv=1770728340) provides details on how to get involved and how to contribute.
 

@@ -3,7 +3,7 @@ The International Data Spaces Association (IDSA) provides a comprehensive body o
 
 | Level | Document | Purpose |
 |-------|-------|-------|
-|Vision | [Manifesto of Data Spaces](https://kb.internationaldataspaces.org/external/manifesto/manifesto) | Defines core principles and  motivation |
+|Vision | [Manifesto of Data Spaces](https://kb.internationaldataspaces.org/external/manifesto/manifesto) | Defines core principles and motivation |
 |Governance | [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/001_Introduction) | Establish requirements and roles |
 |Thematic guidance | [IDSA Papers on Focus topics](https://kb.internationaldataspaces.org/external/ram/FocusPapers) | Explore evolving topics in depth |
 |Technical Architecture | [IDS-RAM](https://kb.internationaldataspaces.org/external/ram/) | Enables implementations |
@@ -23,7 +23,7 @@ Unlike detailed guidance documents, the Manifesto is deliberately high level. It
 Guided by the ideals of the Manifesto, the IDSA Rulebook answers **"WHAT"** needs to be done to translate vision into concrete requirements and governance models. It supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
 
 - Common technical guidance, including functional requirements and specifications.
-- Recommendations for applying IDSA technical artefacts and for alignment with partner feworks.
+- Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
 - Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
 - Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
 
@@ -42,7 +42,7 @@ Each Focus Topic is anchored in the Rulebook and consistent with the Manifesto, 
 
 ## IDS Reference Architecture Model – Technical Realization
 
-While previous documents define what to implement, the IDS Reference Architecture Model (IDS-RAM) explain **"HOW"** to build it. It is the central technical compendium that transforms more abstract governance concepts into implementable architecture. The IDS-RAM introduces:
+While previous documents define what to implement, the IDS Reference Architecture Model (IDS-RAM) explains **"HOW"** to build it. It is the central technical compendium that transforms more abstract governance concepts into implementable architecture. The IDS-RAM introduces:
 
 - Interaction models between logical components
 - Protocol specifications like the Dataspace Protocol (DSP) and Decentralized Claims Protocol (DCP).
