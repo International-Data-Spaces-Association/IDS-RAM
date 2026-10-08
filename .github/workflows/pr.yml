@@ -1,0 +1,53 @@
+name: PR checks
+on:
+  pull_request:
+    branches: [ main ]
+permissions:
+  contents: read
+jobs:
+  lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    # Non-blocking for now: there is a pre-existing formatting backlog in
+    # docs/ on branches that predate the 2026-3 editorial pass. Remove this
+    # once that backlog is clear so the check can start blocking merges.
+    continue-on-error: true
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          globs: |
+            docs/**/*.md
+
+  linkcheck:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    # Non-blocking: reports broken links as a hint without failing the PR.
+    continue-on-error: true
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Cache lychee
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: lychee-${{ runner.os }}-${{ hashFiles('.lychee.toml') }}
+
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >-
+            --config .lychee.toml
+            --no-progress
+            --accept 200,206,301,302,429
+            docs

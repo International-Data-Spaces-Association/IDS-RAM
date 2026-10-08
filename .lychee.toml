@@ -1,0 +1,19 @@
+# Lychee link-checker configuration for IDS-RAM.
+#
+# Run in CI as a non-blocking check (see .github/workflows/pr.yml) — it
+# reports broken links on every PR without failing the build.
+#
+# `exclude` takes regex patterns for links that should not be checked at
+# all: known-flaky or bot-blocking sites, links that need auth, etc. Use
+# it only for links that are not actually broken — if a link IS broken,
+# fix or remove it instead of excluding it here.
+#
+# A full run against docs/ on 2026-10-08 found zero broken links, so this
+# list starts empty. Example of how to add an entry if one shows up later:
+# exclude = [
+#   "^https://example\\.com/known-flaky-page$",
+# ]
+
+verbose = "info"
+no_progress = true
+exclude = []
