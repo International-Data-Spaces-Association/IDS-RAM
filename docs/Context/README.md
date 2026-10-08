@@ -1,5 +1,5 @@
 # Relation to other IDSA Documents
-The International Data Spaces Association (IDSA) provides a comprehensive body of documentation that serves as both a strategic compass and a practical guide for building interoperable, trusted dataspaces. IDSA documents follow a clear top-down structure: starting with vision and principles, moving to governance and requirements, narrowing into thematic clarity, and concluding with technical realization. This structure ensures coherence across conceptual, operational, and technical domains, enabling organizations to confidently adopt dataspace principles at scale.
+The International Data Spaces Association (IDSA) provides a comprehensive body of documentation that serves as both a strategic compass and a practical guide for building interoperable, trusted data spaces. IDSA documents follow a clear top-down structure: starting with vision and principles, moving to governance and requirements, narrowing into thematic clarity, and concluding with technical realization. This structure ensures coherence across conceptual, operational, and technical domains, enabling organizations to confidently adopt data space principles at scale.
 
 | Level | Document | Purpose |
 |-------|-------|-------|
@@ -16,7 +16,7 @@ At the top of the IDSA document hierarchy stands the IDSA Manifesto, a concise y
 - Establishes guiding values: trust, fairness, interoperability, and sovereignty, which frame all other IDSA documents.
 - Calls for collective action: encouraging industry, research, and policymakers to collaborate toward Trusted Data Sharing based on open standards and decentralized architectures.
 
-Unlike detailed guidance documents, the Manifesto is deliberately high level. It articulates “why” dataspaces matter and builds a shared identity and strategic direction for the IDSA community. All subsequent documents—including the Rulebook, Focus Topics, and the Reference Architecture Model (IDS-RAM)—are grounded in the principles laid out here.
+Unlike detailed guidance documents, the Manifesto is deliberately high level. It articulates “why” data spaces matter and builds a shared identity and strategic direction for the IDSA community. All subsequent documents—including the Rulebook, Focus Topics, and the Reference Architecture Model (IDS-RAM)—are grounded in the principles laid out here.
 
 ## IDSA Rulebook – From Principles into Practice
 
@@ -31,12 +31,12 @@ The Rulebook acts as the normative foundation of IDSA. It does not specify imple
 
 ## IDSA Papers on Focus Topics – Depth on Key Challenges
 
-While the Manifesto inspires and the Rulebook governs, documents for individual focus topics dive deeper into specific adoption within dataspaces. These concise thematic modules ensure that the documentation can evolve with a fast-changing environment without overloading core documents. Current topics include:
+While the Manifesto inspires and the Rulebook governs, documents for individual focus topics dive deeper into specific adoption within data spaces. These concise thematic modules ensure that the documentation can evolve with a fast-changing environment without overloading core documents. Current topics include:
 
 - Identity & Trust – decentralized identity management and verifiable credentials.
 - Interoperability – semantic, organizational, and technical interoperability models.
-- Observability – monitoring dataspace operations while respecting sovereignty.
-- Agentic AI and LLM – integration of MCP and dataspace in the context of agentic web
+- Observability – monitoring data space operations while respecting sovereignty.
+- Agentic AI and LLM – integration of MCP and data space in the context of agentic web
 
 Each Focus Topic is anchored in the Rulebook and consistent with the Manifesto, providing reusable patterns and best practices. Their modular structure ensures efficient maintenance and allows new topics to be integrated as technology and regulation evolve.
 

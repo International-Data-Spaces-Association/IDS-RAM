@@ -1,6 +1,6 @@
 # Architecture Pattern and Guidelines
 
-*This chapter provides more concrete architecture guidelines on how to design different architecture patterns within a dataspace. Beside the introduction and explanation, trade-offs are highlighted.*
+*This chapter provides more concrete architecture guidelines on how to design different architecture patterns within a data space. Beside the introduction and explanation, trade-offs are highlighted.*
 
 ## Data Space Governance Authority (DSGA)
 
