@@ -1,6 +1,6 @@
 # Architecture Principles
 
-This chapter provides architectural insights on the main technical concepts of dataspaces described in the [IDSA Knowledgebase](https://kb.internationaldataspaces.org/dataspace) and in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) and explains how to realize them using technical specifications such as the Dataspace Protocol (DSP) and the Decentralized Claims Protocol (DCP).
+This chapter provides architectural insights on the main technical concepts of data spaces described in the [IDSA Knowledgebase](https://kb.internationaldataspaces.org/dataspace) and in the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/102_Foundational_concepts_of_a_data_space) and explains how to realize them using technical specifications such as the Dataspace Protocol (DSP) and the Decentralized Claims Protocol (DCP).
 
 ## Introduction - *Starting with the main concepts*
 
@@ -65,7 +65,7 @@ Supports the discovery of data and services through metadata publication and con
 Cataloging capability is based on the DSP Catalog Protocol specification, which makes use of DCAT and application profiles.
 
 !!! tip "See also"
-    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices) and and IDS-RAM [Architectural patterns for Catalogs](../Pattern/Catalogs.md).
+    IDSA Rulebook page [Data Discovery Services](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices) and IDS-RAM [Architectural patterns for Catalogs](../Pattern/Catalogs.md).
 
 ### D. [Contract Negotiation](Contract_Negotiation.md)
 
@@ -108,12 +108,12 @@ Provides evidence and accountability for actions taken during Contract negotiati
 
 ### H. Optional Services
 
-Represents ecosystem represent ecosystem extensions (e.g., marketplaces, processing services, auditing services, escrow/confidential compute), which may be provided by participants subject to the dataspace governance framework. In the diagram, optional services “execute and enforce” the data plane and “provide inputs” into governance and framework elements.
+Represents ecosystem extensions (e.g., marketplaces, processing services, auditing services, escrow/confidential compute), which may be provided by participants subject to the data space governance framework. In the diagram, optional services “execute and enforce” the data plane and “provide inputs” into governance and framework elements.
 
 >Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.  
 
 !!! tip "See also"
-   Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
+    Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
 ## Mapping to technical specifications
 

@@ -10,7 +10,7 @@
 | Architectural Capability | Technical Specifications |
 | ------------------------- | -------------------------- |
 | [Credentials & Claims](Credentials_and_Claims.md) | [Decentralized Claims Protocol (DCP)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/) |
-| | [W3C Verified Credentials Data Model](https://www.w3.org/TR/vc-data-model-2.1/) |
+| | [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model-2.1/) |
 | | [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-1.1/) |
 | | |
 | [Cataloging](Cataloging.md) | [Dataspace Protocol: Catalog](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err2/#catalog-protocol) |

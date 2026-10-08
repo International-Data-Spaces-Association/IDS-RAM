@@ -1,6 +1,6 @@
 # Cataloging
 
-Cataloging describes the architectural capability to **advertise data assets and data services** in a dataspace without exposing the data itself.
+Cataloging describes the architectural capability to **advertise data assets and data services** in a data space without exposing the data itself.
 
 From a protocol perspective, cataloging is realized through **DSP catalog messages**, which allow participants to publish **machine-readable metadata** describing datasets, services, and associated usage policies. These catalogs form the basis for discovery and negotiation.  
 

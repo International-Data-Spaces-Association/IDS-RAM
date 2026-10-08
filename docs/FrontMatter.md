@@ -1,4 +1,4 @@
-# IDS-RAM 2026-1 working draft #
+# IDS-RAM 2026-3 #
 
 ## Publisher ##
 
@@ -25,3 +25,15 @@ Dortmund, Germany, 2026
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+## Authors and Contributors ##
+
+* Sebastian Steinbuss, IDSA
+* Ilknur Chulani, IDSA
+* Petteri Kivimäki, Nordic Institute of Interoperability Solutions
+* Markus Spiekermann, Fraunhofer ISST
+* Peter Koen, Microsoft
+* Andreas Krimbacher, nexyo
+* Felix Larrinaga Barrenechea, Mondragon University
+* Simon Lofthouse, Data Trust Company
+* Achim Pascal Meyer, Sphin-X

@@ -1,6 +1,6 @@
 # Data Transfer (Transfer Process)
 
-Data Transfer orchestrates the **actual exchange or access of data** between dataspace participants once a contract has been established.
+Data Transfer orchestrates the **actual exchange or access of data** between data space participants once a contract has been established.
 
 This capability does **not** define how data is transferred; instead, it defines **transfer process messages** that coordinate *when* and *under which agreement* data transfer may occur.
 
@@ -37,20 +37,20 @@ Architecturally:
 - It is implemented by participant-controlled data services
 - It may include data management systems, APIs, compute environments, or streaming infrastructures
 
-The separation between control plane and data plane allows dataspaces to support **heterogeneous technologies and business models**, while preserving a common governance and interoperability layer.
+The separation between control plane and data plane allows data spaces to support **heterogeneous technologies and business models**, while preserving a common governance and interoperability layer.
 
 ## Policy Enforcement
 
-Policy Enforcement describes how **usage policies and contractual obligations** are applied across dataspace interactions.
+Policy Enforcement describes how **usage policies and contractual obligations** are applied across data space interactions.
 
 From an architectural perspective, policy enforcement is a **shared responsibility**:
 
-- The dataspace control plane evaluates policies during discovery, negotiation, and orchestration
+- The data space control plane evaluates policies during discovery, negotiation, and orchestration
 - Data management services enforce policies during actual data access and use
 
 Policies are expressed in machine-readable form and referenced by DSP messages, but enforcement may occur both **technically** (e.g. access control, usage restrictions) and **organizationally** (e.g. contractual compliance).
 
-This division ensures that dataspaces can scale without assuming control over participant infrastructure.
+This division ensures that data spaces can scale without assuming control over participant infrastructure.
 
 ## Further Resources
 

@@ -1,6 +1,6 @@
 # Catalogs
 
-This section provides architectural options for realizing dataset publication and discovery in a data space. For the underlying metadata model and discovery requirements, see the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)'s data discovery guidance and the  [Dataspace Protocol Catalog Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#catalog-protocol). This section does not repeat them but focuses on the architecture patterns and their trade-offs.
+This section provides architectural options for realizing dataset publication and discovery in a data space. For the underlying metadata model and discovery requirements, see the [IDSA Rulebook](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)'s data discovery guidance and the [Dataspace Protocol Catalog Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-err1/#catalog-protocol). This section does not repeat them but focuses on the architecture patterns and their trade-offs.
 
 Some aspects of discovery are the same in every pattern and are treated here as a shared baseline. Metadata is expressed with DCAT: a Catalog contains Datasets, each with one or more Distributions and an associated DataService describing where and how the dataset can be obtained, and each Dataset carries one or more ODRL offers stating the policies under which it may be used. A catalog holds these descriptions and offers only — never the data itself.
 
