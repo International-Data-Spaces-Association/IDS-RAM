@@ -20,7 +20,7 @@ The following diagram maps the relationships between these concepts, not intendi
 
 Please note that some essential characteristics such as **maintaining control** and **interoperability** are not depicted in this picture, as these are cross-cutting concepts which require actions in almost each block. They have been omitted from the diagram for the sake of readability.
 
-**Multi-level policies** (i.e. membership policies at data space level, access policies for controlled discovery of metadata, data sharing contract policies, data use policies) needed in a data space are depicted vertically in this picture to express how they are applied in an overarching way across different levels.
+**Multi-level policies** (e.g., membership policies at data space level, access policies for controlled discovery of metadata, data sharing contract policies, data use policies) needed in a data space are depicted vertically in this picture to express how they are applied in an overarching way across different levels.
 
 ## IDS-RAM Architectural Capabilities - *Turning data space concepts into technical guidance*
 
@@ -33,6 +33,8 @@ The architectural capabilities defined in IDS-RAM represent the functional build
 - **[Decentralized Claims Protocol (DCP, ISO/IEC DIS 26451)](https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/)** which provides an overlay for organizational identity and trust/credential verification while preserving privacy.
 
 - **[Data Plane Signaling](https://github.com/eclipse-dataplane-signaling/dataplane-signaling)** which specifies interoperable control plane/data plane communication.
+
+However, the architectural capabilities can be implemented in other approaches. Future versions of the IDS-RAM may include such approaches.
 
 The visual map of data space concepts provided earlier then evolves into the following view of architectural capabilities:  
 
@@ -114,4 +116,5 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
    Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
 ## Mapping to technical specifications
-A mapping of the RAM capabilities to technical specifications may be found [here](Mapping_to_Specifications.md). 
+
+A mapping of the RAM capabilities to technical specifications may be found [in the article on the mapping to technical specifications](Mapping_to_Specifications.md).
