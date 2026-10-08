@@ -58,4 +58,4 @@ To know more about the IDSA Working Group Architecture, please visit [our home p
 Please note: IDSA working group activities are reserved for members. Find more information about IDSA membership here: [Become a Member](https://internationaldataspaces.org/we/become-a-member/)
 
 ## Terminology
-IDS-RAM uses terms as defined in the [IDSA Glossary](https://kb.internationaldataspaces.org/external/glossary/glossary/). 
+IDS-RAM uses terms as defined in the [IDSA Glossary](https://kb.internationaldataspaces.org/external/glossary/glossary/).

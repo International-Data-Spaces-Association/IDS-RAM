@@ -113,7 +113,7 @@ Represents ecosystem represent ecosystem extensions (e.g., marketplaces, process
 >Optional services are out of scope for IDS-RAM, while still relevant for the overall landscape of data spaces.  
 
 !!! tip "See also"
-   Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
+    Focus paper [Value adding services](../FocusPapers/Value-Adding_Services_in_Decentralized_Dataspaces.md)
 
 ## Mapping to technical specifications
 

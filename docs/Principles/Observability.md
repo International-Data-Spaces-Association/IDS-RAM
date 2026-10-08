@@ -26,7 +26,7 @@ Observability is closely linked to other concepts such as Provenance and Traceab
 ![Figure 1: Scope: Observability of Data sharing contracts, not end-to-end observability in data ecosystems](../media/Observability_Scope.jpg)  
 
 It is important to note that at the technical layer, this capability may be implemented by approaching the sharing of observability data just like another data sharing contract, however, setting up the necessary business processes and governance rules are the really necessary steps to truly achieve observability.
- <!-- Figure 2 -->
+<!-- Figure 2 -->
 ![Figure 2: The need for Business and Governance Processes more than technical elements](../media/Observability_Business_Governance.jpg)  
 
 ## Further Resources
@@ -38,4 +38,4 @@ It is important to note that at the technical layer, this capability may be impl
   - [IDSA Position Paper: Observability in Data Spaces](https://internationaldataspaces.org/download/51606/?tmstv=1772198923)
 
 - **Specifications**
-  - [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/) - See State Machines for what can be observed for each sub-protocol 
+  - [Dataspace Protocol](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/) - See State Machines for what can be observed for each sub-protocol
