@@ -10,15 +10,7 @@
 
 ## Catalogs
 
-TODO: *Different architectural options for implementing Catalogs in the context of dataspaces. Please also refer to the IDSA Rulebook page [Cataloging](https://kb.internationaldataspaces.org/external/rulebook/120_DataDiscoveryServices)*
-
-### Federated or Central (Marketplace)
-
-TODO: *Insights on federated or central catalogs and corresponding trade-offs*
-
-### Decentral
-
-TODO: *Insights on decentral catalogs and corresponding trade-offs*
+[The catalogs section](Catalogs.md) provides architectural options for realizing dataset publication and discovery in a data space. The section covers central, federated and decentral approaches.
 
 ## Observer
 
