@@ -28,7 +28,8 @@ dimensions:
 The options form a spectrum rather than discrete choices. As governance authority
 and information are distributed to participants and mandatory runtime dependencies
 on shared services are reduced, a data space moves toward the decentralized end
-of the spectrum.
+of the spectrum. Figure 1 places the patterns on this spectrum and compares them
+along the four dimensions.
 
 ![Figure 1: DSGA patterns on the centralized–decentralized spectrum, compared along the four dimensions](../media/DSGA_Spectrum.jpg)
 
