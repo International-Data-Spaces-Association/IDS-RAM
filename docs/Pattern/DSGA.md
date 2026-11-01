@@ -30,6 +30,13 @@ and information are distributed to participants and mandatory runtime dependenci
 on shared services are reduced, a data space moves toward the decentralized end
 of the spectrum.
 
+![Figure 1: DSGA patterns on the centralized–decentralized spectrum, compared along the four dimensions](../media/DSGA_Spectrum.jpg)
+
+Figure 2 illustrates the alternatives: a central DSGA, a federated DSGA, and a
+decentral DSGA in which governance is exercised collectively.
+
+![Figure 2: Architectural alternatives for realizing the DSGA](../media/DSGA_Alternatives.jpg)
+
 ## Central and federated DSGA
 
 Here the DSGA function is embodied in shared infrastructure. In the central
