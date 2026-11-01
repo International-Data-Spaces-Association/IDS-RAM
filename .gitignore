@@ -4,3 +4,9 @@ docs/_combined.md
 /IDS-RAM-latest.pdf
 __pycache__/
 *.pyc
+.DS_Store
+.idea/
+
+# draw.io temporary and backup files
+**/.$*.drawio.bkp
+**/.$*.drawio.dtmp
