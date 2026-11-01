@@ -8,7 +8,13 @@ Data discovery is a control-plane activity, separate from the Transfer Process. 
 
 Connectors are also often not reachable from the public Internet, as they typically accept connections only from allowlisted, authenticated peers. Consequently, the required network reachability between parties and endpoints depends on the chosen pattern and is described for each pattern below.
 
-What the patterns below change is where the catalog index lives and who operates it, how metadata from many providers is brought together (if at all), the network reachability each pattern requires, and the resulting freshness, availability, trust, and search experience. As with the other capabilities, the options form a spectrum from a single central index to purely peer-to-peer discovery.
+What the patterns below change is where the catalog index lives and who operates it, how metadata from many providers is brought together (if at all), the network reachability each pattern requires, and the resulting freshness, availability, trust, and search experience. As with the other capabilities, the options form a spectrum from a single central index to purely peer-to-peer discovery. Figure 1 places the patterns on this spectrum and compares them along these aspects.
+
+![Figure 1: Catalog patterns on the centralized–decentralized spectrum](../media/Catalogs_Spectrum.jpg)
+
+Figure 2 illustrates the alternatives: a central catalog, federated catalogs, and decentral catalogs in which consumers query each provider's catalog directly.
+
+![Figure 2: Architectural alternatives for realizing catalogs](../media/Catalogs_Alternatives.jpg)
 
 ## Central and federated catalogs
 
